@@ -13,6 +13,39 @@ so the data model and pipeline are the same. The only league-specific file is
 
 ---
 
+## Repository structure
+
+```
+.
+├── .github/workflows/
+│   └── ligaportugal-fetch.yml       # scheduled daily fetch (1am UTC, retries 2am/3am)
+├── scripts/
+│   ├── league_config.py             # league-specific settings — the only per-league file
+│   ├── fetch.py                     # smart daily fetch
+│   ├── generate_csv.py              # JSON → CSV
+│   ├── generate_latest.py           # builds latest/
+│   └── current_season.py            # derives the current season from the API
+├── data/
+│   └── {season}/                    # one directory per season, e.g. 2026/
+│       ├── ligaportugal-bootstrap_{season}.json
+│       ├── ligaportugal-fixtures_{season}.json
+│       ├── ligaportugal-dream-team_{season}.json
+│       ├── ligaportugal-regions_{season}.json
+│       ├── fetch-manifest.json      # state of the most recent fetch
+│       ├── players/                 # one JSON per player (full match history)
+│       ├── gameweeks/
+│       │   └── gw{N}/               # live.json + dream-team.json per GW
+│       └── csv/                     # processed CSVs (players, teams, fixtures,
+│           └── players/             #   gameweeks, live, dream-teams, regions,
+│                                    #   per-player history & history_past)
+└── latest/                          # always the most recent data, season-agnostic
+    ├── ligaportugal-bootstrap.json
+    ├── ligaportugal-fixtures.json
+    ├── players-{team_opta_id}.json  # one per team
+    ├── players-history-past.json
+    └── fetch-manifest.json
+```
+
 ## What's included
 
 ### JSON (raw API data)
@@ -30,14 +63,14 @@ so the data model and pipeline are the same. The only league-specific file is
 
 Not every league platform exposes the optional endpoints (dream team,
 set-piece notes, regions, event-status). Missing ones are skipped
-gracefully — run `python3 scripts/probe.py` to see this league's coverage.
+gracefully.
 
 ### CSV (processed)
 
 | File | Description |
 |---|---|
 | `data/{season}/csv/players.csv` | All players with season stats and metadata |
-| `data/{season}/csv/teams.csv` | All 18 Liga Portugal teams |
+| `data/{season}/csv/teams.csv` | All teams listed in the bootstrap (18 compete in Liga Portugal; the platform may list extra historical entries) |
 | `data/{season}/csv/fixtures.csv` | All fixtures with scores |
 | `data/{season}/csv/players/history/{player_id}_{first}_{second}_{opta_id}.csv` | Per-player match history |
 | `data/{season}/csv/players/history_past/{player_id}_{first}_{second}_{opta_id}.csv` | Player season histories |
