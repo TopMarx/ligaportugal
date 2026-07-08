@@ -1,0 +1,15 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+729,185,21,2026-02-07T15:30:00Z,False,7,Estrela Amadora,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+729,195,22,2026-02-13T18:30:00Z,True,3,SL Benfica,1,2,False,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,50,0,0,0,0
+729,199,23,2026-02-21T15:30:00Z,False,17,FC Alverca,1,1,False,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,50,0,0,0,0
+729,215,24,2026-03-01T15:30:00Z,False,18,CD Tondela,2,2,False,88,0,0,0,2,0,0,0,0,0,0,0,0,0,0,3,2,50,2,2,0,2
+729,223,25,2026-03-08T20:30:00Z,True,15,Vitória SC,2,0,False,75,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2,50,4,2,0,2
+729,226,26,2026-03-15T15:30:00Z,False,2,AFS,0,1,False,70,0,1,1,0,0,0,0,0,0,0,0,0,0,1,3,5,50,8,2,0,2
+729,241,27,2026-03-21T18:00:00Z,True,9,Gil Vicente FC,1,0,False,73,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,2,50,11,4,0,4
+729,251,28,2026-04-03T19:30:00Z,False,14,Sporting CP,4,2,False,76,0,1,0,3,0,0,0,0,0,0,1,0,0,3,6,6,50,9,0,2,-2
+729,259,29,2026-04-11T17:00:00Z,True,11,Rio Ave FC,0,2,False,56,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,50,13,4,0,4
+729,264,30,2026-04-18T17:00:00Z,False,4,Casa Pia AC,0,0,False,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,50,12,0,1,-1
+729,277,31,2026-04-26T17:00:00Z,True,13,SC Braga,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,12,0,0,0
+729,280,32,2026-05-02T14:30:00Z,False,1,FC Arouca,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,10,0,2,-2
+729,295,33,2026-05-11T19:15:00Z,True,5,CD Nacional,2,0,False,8,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,4,50,7,0,3,-3
+729,302,34,2026-05-16T14:30:00Z,False,16,FC Porto,1,0,False,61,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2,50,6,0,0,0

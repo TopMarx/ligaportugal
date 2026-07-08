@@ -1,0 +1,17 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+696,168,19,2026-01-26T20:15:00Z,False,16,FC Porto,3,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,3,3,0,3
+696,175,20,2026-02-01T15:30:00Z,True,8,FC Famalicão,5,0,False,90,0,0,1,0,0,0,0,0,0,0,0,0,0,0,10,6,40,6,3,0,3
+696,188,21,2026-02-07T15:30:00Z,False,10,Moreirense FC,1,2,False,90,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,40,115,108,4,104
+696,193,22,2026-02-14T20:30:00Z,True,13,SC Braga,2,1,False,90,0,0,0,1,0,0,0,0,0,1,0,0,0,0,5,2,40,194,80,2,78
+696,202,23,2026-02-22T18:00:00Z,False,6,Estoril Praia,3,1,False,90,0,0,0,3,0,0,0,0,0,4,0,0,0,0,13,2,40,245,50,4,46
+696,212,24,2026-03-02T20:15:00Z,True,3,SL Benfica,1,2,False,90,0,0,0,2,0,0,0,0,0,1,0,0,0,0,11,1,40,273,29,2,27
+696,220,25,2026-03-08T15:30:00Z,False,7,Estrela Amadora,2,2,False,90,0,0,0,2,0,0,0,0,0,3,0,0,0,0,10,2,40,341,60,2,58
+696,231,26,2026-03-14T18:00:00Z,True,17,FC Alverca,2,2,False,90,0,0,0,2,0,0,0,0,0,4,0,0,0,0,7,3,40,458,101,13,88
+696,241,27,2026-03-21T18:00:00Z,False,12,Santa Clara,1,0,False,90,0,0,0,1,0,0,0,0,0,1,0,0,0,0,6,2,40,445,20,10,10
+696,248,28,2026-04-03T14:30:00Z,True,2,AFS,3,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,499,54,10,44
+696,261,29,2026-04-13T19:15:00Z,False,18,CD Tondela,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,440,2,58,-56
+696,266,30,2026-04-18T19:30:00Z,True,15,Vitória SC,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,388,4,49,-45
+696,276,31,2026-04-27T19:15:00Z,True,4,Casa Pia AC,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,530,23,20,3
+696,286,32,2026-05-03T19:30:00Z,False,11,Rio Ave FC,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,400,19,37,-18
+696,293,33,2026-05-11T19:15:00Z,True,1,FC Arouca,1,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,399,21,31,-10
+696,306,34,2026-05-16T19:30:00Z,False,14,Sporting CP,3,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,470,43,7,36

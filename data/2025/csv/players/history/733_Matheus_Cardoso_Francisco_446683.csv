@@ -1,0 +1,15 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+733,187,21,2026-02-09T18:45:00Z,False,8,FC Famalicão,3,1,False,90,0,0,0,3,0,0,0,1,0,0,0,1,0,0,10,1,40,0,0,0,0
+733,190,22,2026-02-15T18:00:00Z,True,6,Estoril Praia,3,0,False,90,0,0,1,0,0,0,0,0,0,0,0,1,0,0,10,7,40,0,0,0,0
+733,201,23,2026-02-21T18:00:00Z,False,3,SL Benfica,3,0,False,45,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,40,0,0,0,0
+733,208,24,2026-02-28T15:30:00Z,True,7,Estrela Amadora,0,0,False,90,0,0,1,0,0,0,0,0,0,0,0,1,0,1,10,7,40,0,0,0,0
+733,217,25,2026-03-07T15:30:00Z,False,17,FC Alverca,0,0,False,71,0,0,1,0,0,0,0,1,0,0,0,1,0,0,9,6,40,1,1,0,1
+733,226,26,2026-03-15T15:30:00Z,True,12,Santa Clara,0,1,False,82,0,0,0,1,0,0,0,0,0,0,0,1,0,0,12,3,40,3,3,0,3
+733,243,27,2026-03-21T20:30:00Z,False,18,CD Tondela,0,0,False,90,0,0,1,0,0,0,0,0,0,0,0,1,0,0,14,7,40,4,1,0,1
+733,248,28,2026-04-03T14:30:00Z,False,9,Gil Vicente FC,3,0,False,90,0,0,0,3,0,0,0,0,0,0,0,0,0,0,5,1,40,6,0,0,0
+733,253,29,2026-04-11T14:30:00Z,True,15,Vitória SC,1,1,False,90,0,0,0,1,0,0,0,0,0,0,0,0,0,1,7,2,40,6,1,1,0
+733,268,30,2026-04-17T19:45:00Z,False,11,Rio Ave FC,2,2,False,90,0,0,0,2,0,0,0,0,0,0,0,0,0,0,6,1,40,6,0,0,0
+733,271,31,2026-04-26T19:30:00Z,True,14,Sporting CP,1,1,False,90,0,0,0,1,0,0,0,0,0,0,0,1,0,0,8,3,40,5,0,1,-1
+733,281,32,2026-05-02T14:30:00Z,False,5,CD Nacional,1,2,False,90,0,0,0,1,0,0,0,0,0,0,0,1,0,0,11,3,40,5,0,0,0
+733,289,33,2026-05-10T17:00:00Z,True,16,FC Porto,3,1,False,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,40,6,0,0,0
+733,304,34,2026-05-16T14:30:00Z,False,10,Moreirense FC,0,0,False,90,0,0,1,0,0,0,0,1,0,0,0,1,0,0,10,6,40,6,0,0,0

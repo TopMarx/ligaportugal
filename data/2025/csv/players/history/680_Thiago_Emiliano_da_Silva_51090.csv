@@ -1,0 +1,18 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+680,162,18,2026-01-18T20:30:00Z,False,15,Vitória SC,0,1,False,90,0,0,1,0,0,0,0,0,0,0,0,1,0,0,11,7,60,2,2,0,2
+680,168,19,2026-01-26T20:15:00Z,True,9,Gil Vicente FC,3,0,False,90,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,6,60,169,139,9,130
+680,174,20,2026-02-02T20:45:00Z,False,4,Casa Pia AC,2,1,False,70,0,0,0,2,1,0,0,0,0,0,0,0,0,0,7,-1,60,362,159,8,151
+680,186,21,2026-02-09T20:45:00Z,True,14,Sporting CP,1,1,False,27,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,60,360,47,48,-1
+680,191,22,2026-02-15T15:30:00Z,False,5,CD Nacional,0,1,False,90,0,0,1,0,0,0,0,0,0,0,0,1,0,0,12,7,60,417,74,33,41
+680,204,23,2026-02-22T20:30:00Z,True,11,Rio Ave FC,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,517,94,13,81
+680,211,24,2026-02-27T18:45:00Z,True,1,FC Arouca,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,233,3,267,-264
+680,218,25,2026-03-08T18:00:00Z,False,3,SL Benfica,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,189,4,48,-44
+680,230,26,2026-03-15T20:30:00Z,True,10,Moreirense FC,3,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,182,4,28,-24
+680,242,27,2026-03-22T20:30:00Z,False,13,SC Braga,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,158,2,21,-19
+680,247,28,2026-04-04T19:30:00Z,True,8,FC Famalicão,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,149,0,9,-9
+680,256,29,2026-04-12T19:30:00Z,False,6,Estoril Praia,1,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,140,0,11,-11
+680,265,30,2026-04-19T19:30:00Z,True,18,CD Tondela,2,0,False,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,49,139,1,5,-4
+680,275,31,2026-04-26T17:00:00Z,False,7,Estrela Amadora,1,2,False,90,0,0,0,1,0,0,0,0,0,0,0,1,0,1,10,3,49,136,0,3,-3
+680,283,32,2026-05-02T19:30:00Z,True,17,FC Alverca,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,159,7,2,5
+680,289,33,2026-05-10T17:00:00Z,False,2,AFS,3,1,False,90,0,0,0,3,0,0,0,0,0,0,0,1,0,1,11,2,48,313,151,1,150
+680,302,34,2026-05-16T14:30:00Z,True,12,Santa Clara,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,227,11,81,-70

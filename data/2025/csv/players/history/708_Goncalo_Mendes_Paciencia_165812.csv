@@ -1,0 +1,16 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+708,177,20,2026-01-31T15:30:00Z,True,6,Estoril Praia,2,4,False,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,55,12,12,0,12
+708,185,21,2026-02-07T15:30:00Z,False,7,Estrela Amadora,1,0,False,26,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,55,25,16,5,11
+708,195,22,2026-02-13T18:30:00Z,True,3,SL Benfica,1,2,False,61,1,0,0,2,0,0,0,1,0,0,0,0,0,0,3,5,54,34,11,4,7
+708,199,23,2026-02-21T15:30:00Z,False,17,FC Alverca,1,1,False,64,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,2,54,55,22,2,20
+708,215,24,2026-03-01T15:30:00Z,False,18,CD Tondela,2,2,False,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,54,69,12,4,8
+708,223,25,2026-03-08T20:30:00Z,True,15,Vitória SC,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,65,5,7,-2
+708,226,26,2026-03-15T15:30:00Z,False,2,AFS,0,1,False,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,54,65,7,8,-1
+708,241,27,2026-03-21T18:00:00Z,True,9,Gil Vicente FC,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,63,2,6,-4
+708,251,28,2026-04-03T19:30:00Z,False,14,Sporting CP,4,2,False,13,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,4,54,57,1,8,-7
+708,259,29,2026-04-11T17:00:00Z,True,11,Rio Ave FC,0,2,False,33,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,54,83,25,3,22
+708,264,30,2026-04-18T17:00:00Z,False,4,Casa Pia AC,0,0,False,73,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,2,54,80,6,10,-4
+708,277,31,2026-04-26T17:00:00Z,True,13,SC Braga,2,1,False,78,1,0,0,1,0,0,0,0,0,0,0,0,0,0,3,6,54,84,3,4,-1
+708,280,32,2026-05-02T14:30:00Z,False,1,FC Arouca,2,2,False,75,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,54,112,28,3,25
+708,295,33,2026-05-11T19:15:00Z,True,5,CD Nacional,2,0,False,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,54,134,26,5,21
+708,302,34,2026-05-16T14:30:00Z,False,16,FC Porto,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,118,1,14,-13

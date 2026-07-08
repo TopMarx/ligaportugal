@@ -1,0 +1,17 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+698,171,19,2026-01-25T20:30:00Z,True,17,FC Alverca,5,0,False,90,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,6,55,0,0,0,0
+698,172,20,2026-02-02T18:45:00Z,False,2,AFS,0,4,False,64,0,0,1,0,0,0,0,0,0,0,0,1,0,1,9,7,55,42,14,1,13
+698,189,21,2026-02-08T18:00:00Z,True,11,Rio Ave FC,3,0,False,90,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6,6,55,113,37,3,34
+698,193,22,2026-02-14T20:30:00Z,False,9,Gil Vicente FC,2,1,False,71,0,0,0,1,0,0,0,0,0,0,0,1,0,0,10,3,55,160,40,7,33
+698,207,23,2026-02-21T20:30:00Z,True,15,Vitória SC,3,2,False,90,0,0,0,2,1,0,0,0,0,0,0,0,0,0,3,-1,55,165,10,9,1
+698,209,24,2026-02-28T18:00:00Z,False,5,CD Nacional,1,2,False,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,55,160,2,8,-6
+698,224,25,2026-03-07T18:00:00Z,True,14,Sporting CP,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,118,0,40,-40
+698,242,27,2026-03-22T20:30:00Z,True,16,FC Porto,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,104,0,5,-5
+698,249,28,2026-04-04T17:00:00Z,False,10,Moreirense FC,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,98,0,6,-6
+698,260,29,2026-04-12T17:00:00Z,True,1,FC Arouca,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,96,0,2,-2
+698,269,30,2026-04-19T19:30:00Z,True,8,FC Famalicão,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,93,0,2,-2
+698,229,30,2026-04-23T18:00:00Z,False,4,Casa Pia AC,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,93,0,2,-2
+698,277,31,2026-04-26T17:00:00Z,False,12,Santa Clara,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,94,0,0,0
+698,287,32,2026-05-03T17:00:00Z,True,6,Estoril Praia,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,92,0,2,-2
+698,291,33,2026-05-11T19:15:00Z,False,3,SL Benfica,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,91,0,1,-1
+698,305,34,2026-05-16T17:00:00Z,True,7,Estrela Amadora,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,91,0,0,0

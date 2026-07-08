@@ -1,0 +1,17 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+693,165,19,2026-01-25T15:30:00Z,True,11,Rio Ave FC,4,0,False,76,1,0,1,0,0,0,0,0,0,0,0,0,1,0,6,9,50,0,0,0,0
+693,178,20,2026-02-01T18:00:00Z,False,14,Sporting CP,2,1,False,80,0,1,0,1,0,0,0,0,0,0,0,0,0,0,7,5,50,97,66,7,59
+693,183,21,2026-02-08T15:30:00Z,True,4,Casa Pia AC,0,0,False,83,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,3,50,173,78,6,72
+693,191,22,2026-02-15T15:30:00Z,True,16,FC Porto,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,153,11,22,-11
+693,200,23,2026-02-21T15:30:00Z,False,1,FC Arouca,3,0,False,77,0,0,0,3,0,0,0,0,0,0,1,0,0,2,2,3,50,177,18,5,13
+693,209,24,2026-02-28T18:00:00Z,True,13,SC Braga,1,2,False,73,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,2,50,162,5,19,-14
+693,222,25,2026-03-07T15:30:00Z,False,10,Moreirense FC,1,1,False,68,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,50,147,4,17,-13
+693,228,26,2026-03-15T15:30:00Z,True,6,Estoril Praia,0,1,False,62,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,2,50,129,2,16,-14
+693,239,27,2026-03-21T15:30:00Z,False,8,FC Famalicão,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,122,1,16,-15
+693,245,28,2026-04-04T14:30:00Z,True,7,Estrela Amadora,2,0,False,88,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,3,46,108,0,14,-14
+693,255,29,2026-04-12T17:00:00Z,False,3,SL Benfica,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,100,0,7,-7
+693,263,30,2026-04-18T14:30:00Z,True,17,FC Alverca,1,0,False,86,0,0,1,0,0,0,0,1,0,0,0,0,0,0,7,2,45,100,1,1,0
+693,278,31,2026-04-25T14:30:00Z,False,18,CD Tondela,0,2,False,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,44,98,0,3,-3
+693,281,32,2026-05-02T14:30:00Z,True,2,AFS,1,2,False,45,0,0,0,1,0,0,0,1,0,0,0,0,0,1,2,0,43,96,1,4,-3
+693,295,33,2026-05-11T19:15:00Z,False,12,Santa Clara,2,0,False,45,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,1,42,89,0,7,-7
+693,299,34,2026-05-16T17:00:00Z,True,15,Vitória SC,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,88,2,2,0

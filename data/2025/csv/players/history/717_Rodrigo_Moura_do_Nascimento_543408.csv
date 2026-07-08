@@ -1,0 +1,15 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+717,183,21,2026-02-08T15:30:00Z,False,5,CD Nacional,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0
+717,192,22,2026-02-14T15:30:00Z,True,1,FC Arouca,3,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0
+717,205,23,2026-02-23T20:15:00Z,False,8,FC Famalicão,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,1,1,0,1
+717,210,24,2026-03-01T18:00:00Z,True,10,Moreirense FC,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,0,0,0
+717,219,25,2026-03-07T20:30:00Z,False,6,Estoril Praia,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,0,0,0
+717,238,27,2026-03-20T20:15:00Z,False,7,Estrela Amadora,4,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,0,0,0
+717,246,28,2026-04-06T19:45:00Z,True,3,SL Benfica,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,0,0,0
+717,254,29,2026-04-12T14:30:00Z,False,17,FC Alverca,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,0,0,0
+717,264,30,2026-04-18T17:00:00Z,True,12,Santa Clara,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,0,0,0
+717,229,30,2026-04-23T18:00:00Z,True,13,SC Braga,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,0,0,0
+717,276,31,2026-04-27T19:15:00Z,False,9,Gil Vicente FC,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,0,0,0
+717,282,32,2026-05-03T14:30:00Z,True,18,CD Tondela,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,0,0,0
+717,297,33,2026-05-11T19:15:00Z,False,15,Vitória SC,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,0,0,0
+717,300,34,2026-05-16T17:00:00Z,True,11,Rio Ave FC,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,0,0,0

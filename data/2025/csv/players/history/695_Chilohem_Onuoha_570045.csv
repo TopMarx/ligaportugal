@@ -1,0 +1,17 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+695,164,19,2026-01-25T18:00:00Z,False,3,SL Benfica,4,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+695,173,20,2026-01-31T20:30:00Z,False,17,FC Alverca,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+695,185,21,2026-02-07T15:30:00Z,True,12,Santa Clara,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,1,0,0,0
+695,198,22,2026-02-14T18:00:00Z,False,15,Vitória SC,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+695,203,23,2026-02-20T20:45:00Z,True,18,CD Tondela,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+695,208,24,2026-02-28T15:30:00Z,False,2,AFS,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+695,220,25,2026-03-08T15:30:00Z,True,9,Gil Vicente FC,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+695,232,26,2026-03-15T18:00:00Z,False,11,Rio Ave FC,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+695,238,27,2026-03-20T20:15:00Z,True,4,Casa Pia AC,4,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+695,245,28,2026-04-04T14:30:00Z,False,5,CD Nacional,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+695,257,29,2026-04-11T19:30:00Z,True,14,Sporting CP,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+695,262,30,2026-04-19T14:30:00Z,False,1,FC Arouca,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+695,275,31,2026-04-26T17:00:00Z,True,16,FC Porto,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+695,285,32,2026-05-02T14:30:00Z,False,10,Moreirense FC,3,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+695,292,33,2026-05-11T19:15:00Z,True,8,FC Famalicão,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+695,305,34,2026-05-16T17:00:00Z,False,13,SC Braga,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0

@@ -1,0 +1,18 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+679,154,18,2026-01-17T18:00:00Z,True,1,FC Arouca,0,1,False,90,0,0,0,1,0,0,0,0,0,2,0,0,0,1,9,3,40,1,2,1,1
+679,166,19,2026-01-23T20:15:00Z,False,4,Casa Pia AC,3,3,False,90,0,0,0,3,0,0,0,0,0,1,0,0,0,0,9,0,40,3,2,0,2
+679,172,20,2026-02-02T18:45:00Z,True,13,SC Braga,0,4,False,90,0,0,0,4,0,0,0,0,0,4,0,0,0,0,5,1,40,3,0,1,-1
+679,187,21,2026-02-09T18:45:00Z,False,8,FC Famalicão,3,1,False,90,0,0,0,3,0,0,0,0,0,3,0,0,0,0,10,1,40,3,0,0,0
+679,190,22,2026-02-15T18:00:00Z,True,6,Estoril Praia,3,0,False,90,0,0,1,0,0,0,0,0,0,2,0,0,0,0,13,7,40,3,0,0,0
+679,201,23,2026-02-21T18:00:00Z,False,3,SL Benfica,3,0,False,90,0,0,0,3,0,0,0,0,0,6,0,0,0,0,7,3,40,5,2,0,2
+679,208,24,2026-02-28T15:30:00Z,True,7,Estrela Amadora,0,0,False,90,0,0,1,0,0,0,0,0,0,6,0,0,0,0,20,9,40,9,3,0,3
+679,217,25,2026-03-07T15:30:00Z,False,17,FC Alverca,0,0,False,90,0,0,1,0,0,0,0,0,0,3,0,0,0,0,12,7,40,39,13,0,13
+679,226,26,2026-03-15T15:30:00Z,True,12,Santa Clara,0,1,False,90,0,0,0,1,0,0,0,0,0,2,0,0,0,0,10,3,40,86,23,2,21
+679,243,27,2026-03-21T20:30:00Z,False,18,CD Tondela,0,0,False,90,0,0,1,0,0,0,0,0,0,3,0,0,0,0,7,7,40,130,6,3,3
+679,248,28,2026-04-03T14:30:00Z,False,9,Gil Vicente FC,3,0,False,90,0,0,0,3,0,0,0,0,0,3,0,0,0,0,9,1,40,160,13,3,10
+679,253,29,2026-04-11T14:30:00Z,True,15,Vitória SC,1,1,False,90,0,1,0,1,0,0,0,0,0,5,0,0,0,1,12,7,40,159,4,5,-1
+679,268,30,2026-04-17T19:45:00Z,False,11,Rio Ave FC,2,2,False,90,0,0,0,2,0,0,0,0,0,7,0,0,0,0,14,4,40,170,6,0,6
+679,271,31,2026-04-26T19:30:00Z,True,14,Sporting CP,1,1,False,90,0,0,0,1,0,0,0,1,0,7,0,0,0,0,12,4,40,176,1,1,0
+679,281,32,2026-05-02T14:30:00Z,False,5,CD Nacional,1,2,False,90,0,0,0,1,0,0,0,1,0,4,0,0,0,0,11,3,40,180,4,2,2
+679,289,33,2026-05-10T17:00:00Z,True,16,FC Porto,3,1,False,90,0,0,0,1,0,0,0,0,0,4,0,0,0,0,13,4,40,185,9,2,7
+679,304,34,2026-05-16T14:30:00Z,False,10,Moreirense FC,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,204,13,3,10

@@ -1,0 +1,5 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+752,277,31,2026-04-26T17:00:00Z,False,12,Santa Clara,2,1,False,90,0,1,0,2,0,0,0,0,0,0,0,1,0,1,9,6,45,0,0,0,0
+752,287,32,2026-05-03T17:00:00Z,True,6,Estoril Praia,1,1,False,45,0,0,0,1,0,0,0,1,0,0,0,0,0,0,3,0,45,4,2,0,2
+752,291,33,2026-05-11T19:15:00Z,False,3,SL Benfica,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,2,0,0,0
+752,305,34,2026-05-16T17:00:00Z,True,7,Estrela Amadora,2,2,False,79,0,0,0,1,0,0,0,0,0,0,0,0,0,1,7,2,45,2,0,0,0
