@@ -1899,7 +1899,7 @@
       "link_url": ""
     }
   ],
-  "total_players": 24750,
+  "total_players": 24754,
   "element_stats": [
     {
       "label": "Minutos jogados",
@@ -25173,8 +25173,8 @@
       "team": 12,
       "team_code": 372,
       "total_points": 0,
-      "transfers_in": 7,
-      "transfers_in_event": 7,
+      "transfers_in": 8,
+      "transfers_in_event": 8,
       "transfers_out": 8,
       "transfers_out_event": 8,
       "value_form": "0.0",
@@ -30059,8 +30059,8 @@
       "total_points": 0,
       "transfers_in": 1,
       "transfers_in_event": 1,
-      "transfers_out": 11,
-      "transfers_out_event": 11,
+      "transfers_out": 12,
+      "transfers_out_event": 12,
       "value_form": "0.0",
       "value_season": "0.0",
       "web_name": "Ba",
