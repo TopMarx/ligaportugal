@@ -1,0 +1,23 @@
+type,gw,position,player_id,opta_id,name,player_position,points,is_top_player
+gw,1,1,383,436216,Alfonso Pastor,GK,8,False
+gw,1,2,7,545555,Rúben Filipe Gomes Pereira,DEF,10,False
+gw,1,3,364,560404,Rafael Tavares Gomes Fernandes,DEF,8,False
+gw,1,4,302,102384,Ricardo de Sousa Esgaio,DEF,8,False
+gw,1,5,436,575216,Gianluca Prestianni,MID,13,True
+gw,1,6,544,473218,Rodrigo Zalazar,MID,13,False
+gw,1,7,380,181300,Raphael Gregório Guzzo,MID,9,False
+gw,1,8,382,566695,Martín Tejón,MID,9,False
+gw,1,9,264,514189,Gabriel Veiga Novas,MID,9,False
+gw,1,10,405,165812,Gonçalo Mendes Paciência,FWD,11,False
+gw,1,11,275,165811,André Miguel Valente da Silva,FWD,10,False
+season,,1,383,436216,Alfonso Pastor,GK,8,False
+season,,2,7,545555,Rúben Filipe Gomes Pereira,DEF,10,False
+season,,3,364,560404,Rafael Tavares Gomes Fernandes,DEF,8,False
+season,,4,302,102384,Ricardo de Sousa Esgaio,DEF,8,False
+season,,5,436,575216,Gianluca Prestianni,MID,13,True
+season,,6,544,473218,Rodrigo Zalazar,MID,13,False
+season,,7,380,181300,Raphael Gregório Guzzo,MID,9,False
+season,,8,382,566695,Martín Tejón,MID,9,False
+season,,9,264,514189,Gabriel Veiga Novas,MID,9,False
+season,,10,405,165812,Gonçalo Mendes Paciência,FWD,11,False
+season,,11,275,165811,André Miguel Valente da Silva,FWD,10,False
