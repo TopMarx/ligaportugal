@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "generated_at": "2026-08-12T03:47:40.171966+00:00",
+  "generated_at": "2026-08-19T02:50:02.564941+00:00",
   "players": [
     {
       "player_id": 335,
@@ -5547,42 +5547,6 @@
       ]
     },
     {
-      "player_id": 54,
-      "opta_id": 490994,
-      "first_name": "André Nogueira",
-      "second_name": "Gomes",
-      "web_name": "André Gomes",
-      "known_name": "",
-      "position": "GK",
-      "history_past": [
-        {
-          "season_name": "2025/26",
-          "element_code": 490994,
-          "start_cost": 45,
-          "end_cost": 46,
-          "total_points": 81,
-          "minutes": 2250,
-          "goals_scored": 0,
-          "assists": 0,
-          "clean_sheets": 6,
-          "goals_conceded": 41,
-          "penalties_saved": 1,
-          "penalties_missed": 0,
-          "yellow_cards": 4,
-          "red_cards": 0,
-          "saves": 71,
-          "own_goals": 0,
-          "attacking_bonus": 0,
-          "defending_bonus": 0,
-          "winning_goals": 0,
-          "key_passes": 0,
-          "clearances_blocks_interceptions": 201,
-          "recoveries": 0,
-          "shots_on_target": 0
-        }
-      ]
-    },
-    {
       "player_id": 158,
       "opta_id": 701878,
       "first_name": "Kauan de Souza",
@@ -5613,6 +5577,42 @@
           "winning_goals": 0,
           "key_passes": 1,
           "clearances_blocks_interceptions": 4,
+          "recoveries": 0,
+          "shots_on_target": 0
+        }
+      ]
+    },
+    {
+      "player_id": 54,
+      "opta_id": 490994,
+      "first_name": "André Nogueira",
+      "second_name": "Gomes",
+      "web_name": "André Gomes",
+      "known_name": "",
+      "position": "GK",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 490994,
+          "start_cost": 45,
+          "end_cost": 46,
+          "total_points": 81,
+          "minutes": 2250,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 6,
+          "goals_conceded": 41,
+          "penalties_saved": 1,
+          "penalties_missed": 0,
+          "yellow_cards": 4,
+          "red_cards": 0,
+          "saves": 71,
+          "own_goals": 0,
+          "attacking_bonus": 0,
+          "defending_bonus": 0,
+          "winning_goals": 0,
+          "key_passes": 0,
+          "clearances_blocks_interceptions": 201,
           "recoveries": 0,
           "shots_on_target": 0
         }
@@ -8144,7 +8144,7 @@
       "first_name": "Rayan Lucas",
       "second_name": "Marques de Souza",
       "web_name": "Rayan Lucas",
-      "known_name": "",
+      "known_name": "Rayan Lucas",
       "position": "MID",
       "history_past": [
         {
@@ -8247,42 +8247,6 @@
       ]
     },
     {
-      "player_id": 479,
-      "opta_id": 546934,
-      "first_name": "Gabri",
-      "second_name": "Martínez",
-      "web_name": "Gabri Martínez",
-      "known_name": "",
-      "position": "MID",
-      "history_past": [
-        {
-          "season_name": "2025/26",
-          "element_code": 546934,
-          "start_cost": 70,
-          "end_cost": 69,
-          "total_points": 67,
-          "minutes": 1311,
-          "goals_scored": 1,
-          "assists": 4,
-          "clean_sheets": 6,
-          "goals_conceded": 14,
-          "penalties_saved": 0,
-          "penalties_missed": 0,
-          "yellow_cards": 2,
-          "red_cards": 1,
-          "saves": 0,
-          "own_goals": 0,
-          "attacking_bonus": 2,
-          "defending_bonus": 6,
-          "winning_goals": 0,
-          "key_passes": 11,
-          "clearances_blocks_interceptions": 103,
-          "recoveries": 0,
-          "shots_on_target": 0
-        }
-      ]
-    },
-    {
       "player_id": 169,
       "opta_id": 614419,
       "first_name": "Julián",
@@ -8313,6 +8277,42 @@
           "winning_goals": 0,
           "key_passes": 0,
           "clearances_blocks_interceptions": 56,
+          "recoveries": 0,
+          "shots_on_target": 0
+        }
+      ]
+    },
+    {
+      "player_id": 479,
+      "opta_id": 546934,
+      "first_name": "Gabri",
+      "second_name": "Martínez",
+      "web_name": "Gabri Martínez",
+      "known_name": "",
+      "position": "MID",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 546934,
+          "start_cost": 70,
+          "end_cost": 69,
+          "total_points": 67,
+          "minutes": 1311,
+          "goals_scored": 1,
+          "assists": 4,
+          "clean_sheets": 6,
+          "goals_conceded": 14,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 2,
+          "red_cards": 1,
+          "saves": 0,
+          "own_goals": 0,
+          "attacking_bonus": 2,
+          "defending_bonus": 6,
+          "winning_goals": 0,
+          "key_passes": 11,
+          "clearances_blocks_interceptions": 103,
           "recoveries": 0,
           "shots_on_target": 0
         }
@@ -10659,42 +10659,6 @@
       ]
     },
     {
-      "player_id": 383,
-      "opta_id": 436216,
-      "first_name": "Alfonso",
-      "second_name": "Pastor",
-      "web_name": "Alfonso Pastor",
-      "known_name": "",
-      "position": "GK",
-      "history_past": [
-        {
-          "season_name": "2025/26",
-          "element_code": 436216,
-          "start_cost": 40,
-          "end_cost": 39,
-          "total_points": 0,
-          "minutes": 0,
-          "goals_scored": 0,
-          "assists": 0,
-          "clean_sheets": 0,
-          "goals_conceded": 0,
-          "penalties_saved": 0,
-          "penalties_missed": 0,
-          "yellow_cards": 0,
-          "red_cards": 0,
-          "saves": 0,
-          "own_goals": 0,
-          "attacking_bonus": 0,
-          "defending_bonus": 0,
-          "winning_goals": 0,
-          "key_passes": 0,
-          "clearances_blocks_interceptions": 0,
-          "recoveries": 0,
-          "shots_on_target": 0
-        }
-      ]
-    },
-    {
       "player_id": 231,
       "opta_id": 677417,
       "first_name": "Gonzalo",
@@ -10725,6 +10689,42 @@
           "winning_goals": 0,
           "key_passes": 0,
           "clearances_blocks_interceptions": 1,
+          "recoveries": 0,
+          "shots_on_target": 0
+        }
+      ]
+    },
+    {
+      "player_id": 383,
+      "opta_id": 436216,
+      "first_name": "Alfonso",
+      "second_name": "Pastor",
+      "web_name": "Alfonso Pastor",
+      "known_name": "",
+      "position": "GK",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 436216,
+          "start_cost": 40,
+          "end_cost": 39,
+          "total_points": 0,
+          "minutes": 0,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 0,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "attacking_bonus": 0,
+          "defending_bonus": 0,
+          "winning_goals": 0,
+          "key_passes": 0,
+          "clearances_blocks_interceptions": 0,
           "recoveries": 0,
           "shots_on_target": 0
         }
@@ -12747,42 +12747,6 @@
       ]
     },
     {
-      "player_id": 441,
-      "opta_id": 514530,
-      "first_name": "Manuel Jorge",
-      "second_name": "Silva",
-      "web_name": "Manu Silva",
-      "known_name": "",
-      "position": "MID",
-      "history_past": [
-        {
-          "season_name": "2025/26",
-          "element_code": 514530,
-          "start_cost": 50,
-          "end_cost": 47,
-          "total_points": 11,
-          "minutes": 121,
-          "goals_scored": 0,
-          "assists": 0,
-          "clean_sheets": 0,
-          "goals_conceded": 2,
-          "penalties_saved": 0,
-          "penalties_missed": 0,
-          "yellow_cards": 0,
-          "red_cards": 0,
-          "saves": 0,
-          "own_goals": 0,
-          "attacking_bonus": 0,
-          "defending_bonus": 1,
-          "winning_goals": 0,
-          "key_passes": 3,
-          "clearances_blocks_interceptions": 14,
-          "recoveries": 0,
-          "shots_on_target": 0
-        }
-      ]
-    },
-    {
       "player_id": 272,
       "opta_id": 576662,
       "first_name": "Tiago",
@@ -12813,6 +12777,42 @@
           "winning_goals": 0,
           "key_passes": 0,
           "clearances_blocks_interceptions": 0,
+          "recoveries": 0,
+          "shots_on_target": 0
+        }
+      ]
+    },
+    {
+      "player_id": 441,
+      "opta_id": 514530,
+      "first_name": "Manuel Jorge",
+      "second_name": "Silva",
+      "web_name": "Manu Silva",
+      "known_name": "",
+      "position": "MID",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 514530,
+          "start_cost": 50,
+          "end_cost": 47,
+          "total_points": 11,
+          "minutes": 121,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 2,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "attacking_bonus": 0,
+          "defending_bonus": 1,
+          "winning_goals": 0,
+          "key_passes": 3,
+          "clearances_blocks_interceptions": 14,
           "recoveries": 0,
           "shots_on_target": 0
         }

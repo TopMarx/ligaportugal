@@ -10,14 +10,25 @@ gw,1,8,382,566695,Martín Tejón,MID,9,False
 gw,1,9,264,514189,Gabriel Veiga Novas,MID,9,False
 gw,1,10,405,165812,Gonçalo Mendes Paciência,FWD,11,False
 gw,1,11,275,165811,André Miguel Valente da Silva,FWD,10,False
-season,,1,383,436216,Alfonso Pastor,GK,8,False
-season,,2,7,545555,Rúben Filipe Gomes Pereira,DEF,10,False
-season,,3,364,560404,Rafael Tavares Gomes Fernandes,DEF,8,False
-season,,4,302,102384,Ricardo de Sousa Esgaio,DEF,8,False
-season,,5,436,575216,Gianluca Prestianni,MID,13,True
-season,,6,544,473218,Rodrigo Zalazar,MID,13,False
-season,,7,380,181300,Raphael Gregório Guzzo,MID,9,False
-season,,8,382,566695,Martín Tejón,MID,9,False
-season,,9,264,514189,Gabriel Veiga Novas,MID,9,False
-season,,10,405,165812,Gonçalo Mendes Paciência,FWD,11,False
-season,,11,275,165811,André Miguel Valente da Silva,FWD,10,False
+gw,2,1,80,633269,Renato Marin,GK,8,False
+gw,2,2,62,200908,Leonardo Rodrigues dos Santos,DEF,16,False
+gw,2,3,64,535544,José Vítor Lima Cardoso,DEF,16,False
+gw,2,4,187,490862,José Fontán,DEF,13,False
+gw,2,5,245,441052,Nehuén Pérez,DEF,13,False
+gw,2,6,430,461266,Alexander Bah,DEF,10,False
+gw,2,7,200,466464,Naïs Djouahra,MID,11,False
+gw,2,8,436,575216,Gianluca Prestianni,MID,10,False
+gw,2,9,126,516038,Abraham Ayomide Marcus,MID,9,False
+gw,2,10,442,212690,Vangelis Pavlidis,FWD,18,True
+gw,2,11,539,437955,Fotis Ioannidis,FWD,13,False
+season,,1,242,216050,Diogo Meireles da Costa,GK,14,False
+season,,2,187,490862,José Fontán,DEF,21,False
+season,,3,64,535544,José Vítor Lima Cardoso,DEF,19,False
+season,,4,62,200908,Leonardo Rodrigues dos Santos,DEF,17,False
+season,,5,269,440854,Jakub Kiwior,DEF,15,False
+season,,6,436,575216,Gianluca Prestianni,MID,23,False
+season,,7,200,466464,Naïs Djouahra,MID,19,False
+season,,8,264,514189,Gabriel Veiga Novas,MID,15,False
+season,,9,442,212690,Vangelis Pavlidis,FWD,25,True
+season,,10,539,437955,Fotis Ioannidis,FWD,20,False
+season,,11,405,165812,Gonçalo Mendes Paciência,FWD,19,False
