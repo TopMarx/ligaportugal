@@ -3243,49 +3243,605 @@
     "code": 2654454,
     "event": 3,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 23,
     "kickoff_time": "2026-08-22T14:30:00Z",
-    "minutes": 0,
+    "minutes": 90,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 18,
-    "team_a_score": null,
+    "team_a_score": 2,
     "team_h": 17,
-    "team_h_score": null,
-    "stats": []
+    "team_h_score": 2,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [
+          {
+            "value": 1,
+            "element": 9
+          },
+          {
+            "value": 1,
+            "element": 21
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 363
+          },
+          {
+            "value": 1,
+            "element": 384
+          }
+        ]
+      },
+      {
+        "identifier": "assists",
+        "a": [
+          {
+            "value": 1,
+            "element": 2
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [
+          {
+            "value": 1,
+            "element": 2
+          },
+          {
+            "value": 1,
+            "element": 5
+          },
+          {
+            "value": 1,
+            "element": 17
+          },
+          {
+            "value": 1,
+            "element": 19
+          },
+          {
+            "value": 1,
+            "element": 21
+          },
+          {
+            "value": 1,
+            "element": 24
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 361
+          },
+          {
+            "value": 1,
+            "element": 380
+          }
+        ]
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "saves",
+        "a": [
+          {
+            "value": 2,
+            "element": 27
+          }
+        ],
+        "h": [
+          {
+            "value": 5,
+            "element": 383
+          }
+        ]
+      },
+      {
+        "identifier": "own_goals",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "attacking_bonus",
+        "a": [
+          {
+            "value": 1,
+            "element": 19
+          },
+          {
+            "value": 1,
+            "element": 21
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 382
+          }
+        ]
+      },
+      {
+        "identifier": "defending_bonus",
+        "a": [
+          {
+            "value": 2,
+            "element": 2
+          },
+          {
+            "value": 2,
+            "element": 5
+          }
+        ],
+        "h": [
+          {
+            "value": 2,
+            "element": 364
+          }
+        ]
+      },
+      {
+        "identifier": "winning_goals",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "shots_on_target",
+        "a": [
+          {
+            "value": 2,
+            "element": 9
+          },
+          {
+            "value": 2,
+            "element": 21
+          },
+          {
+            "value": 1,
+            "element": 10
+          },
+          {
+            "value": 1,
+            "element": 17
+          },
+          {
+            "value": 1,
+            "element": 25
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 363
+          },
+          {
+            "value": 1,
+            "element": 376
+          },
+          {
+            "value": 1,
+            "element": 380
+          },
+          {
+            "value": 1,
+            "element": 384
+          }
+        ]
+      }
+    ]
   },
   {
     "code": 2654452,
     "event": 3,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 19,
     "kickoff_time": "2026-08-22T17:00:00Z",
-    "minutes": 0,
+    "minutes": 90,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 10,
-    "team_a_score": null,
+    "team_a_score": 2,
     "team_h": 5,
-    "team_h_score": null,
-    "stats": []
+    "team_h_score": 0,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [
+          {
+            "value": 1,
+            "element": 352
+          },
+          {
+            "value": 1,
+            "element": 354
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "assists",
+        "a": [
+          {
+            "value": 1,
+            "element": 351
+          },
+          {
+            "value": 1,
+            "element": 354
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [
+          {
+            "value": 1,
+            "element": 334
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 113
+          }
+        ]
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "saves",
+        "a": [
+          {
+            "value": 6,
+            "element": 355
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 87
+          }
+        ]
+      },
+      {
+        "identifier": "own_goals",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "attacking_bonus",
+        "a": [
+          {
+            "value": 1,
+            "element": 351
+          }
+        ],
+        "h": [
+          {
+            "value": 2,
+            "element": 103
+          },
+          {
+            "value": 1,
+            "element": 91
+          },
+          {
+            "value": 1,
+            "element": 94
+          },
+          {
+            "value": 1,
+            "element": 95
+          }
+        ]
+      },
+      {
+        "identifier": "defending_bonus",
+        "a": [
+          {
+            "value": 2,
+            "element": 335
+          },
+          {
+            "value": 2,
+            "element": 350
+          }
+        ],
+        "h": [
+          {
+            "value": 2,
+            "element": 95
+          },
+          {
+            "value": 2,
+            "element": 101
+          }
+        ]
+      },
+      {
+        "identifier": "winning_goals",
+        "a": [
+          {
+            "value": 1,
+            "element": 354
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "shots_on_target",
+        "a": [
+          {
+            "value": 1,
+            "element": 348
+          },
+          {
+            "value": 1,
+            "element": 352
+          },
+          {
+            "value": 1,
+            "element": 354
+          }
+        ],
+        "h": [
+          {
+            "value": 2,
+            "element": 91
+          },
+          {
+            "value": 1,
+            "element": 95
+          },
+          {
+            "value": 1,
+            "element": 104
+          },
+          {
+            "value": 1,
+            "element": 108
+          },
+          {
+            "value": 1,
+            "element": 615
+          }
+        ]
+      }
+    ]
   },
   {
     "code": 2654458,
     "event": 3,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 26,
     "kickoff_time": "2026-08-22T19:30:00Z",
-    "minutes": 0,
+    "minutes": 90,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 16,
-    "team_a_score": null,
+    "team_a_score": 1,
     "team_h": 13,
-    "team_h_score": null,
-    "stats": []
+    "team_h_score": 3,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [
+          {
+            "value": 1,
+            "element": 171
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 524
+          },
+          {
+            "value": 1,
+            "element": 536
+          }
+        ]
+      },
+      {
+        "identifier": "assists",
+        "a": [
+          {
+            "value": 1,
+            "element": 173
+          }
+        ],
+        "h": [
+          {
+            "value": 2,
+            "element": 527
+          }
+        ]
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [
+          {
+            "value": 1,
+            "element": 155
+          },
+          {
+            "value": 1,
+            "element": 177
+          },
+          {
+            "value": 1,
+            "element": 180
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 527
+          }
+        ]
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "saves",
+        "a": [
+          {
+            "value": 5,
+            "element": 168
+          }
+        ],
+        "h": [
+          {
+            "value": 2,
+            "element": 510
+          }
+        ]
+      },
+      {
+        "identifier": "own_goals",
+        "a": [
+          {
+            "value": 1,
+            "element": 168
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "attacking_bonus",
+        "a": [
+          {
+            "value": 2,
+            "element": 171
+          },
+          {
+            "value": 1,
+            "element": 184
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 548
+          },
+          {
+            "value": 1,
+            "element": 625
+          }
+        ]
+      },
+      {
+        "identifier": "defending_bonus",
+        "a": [
+          {
+            "value": 2,
+            "element": 155
+          }
+        ],
+        "h": [
+          {
+            "value": 2,
+            "element": 546
+          }
+        ]
+      },
+      {
+        "identifier": "winning_goals",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "shots_on_target",
+        "a": [
+          {
+            "value": 2,
+            "element": 171
+          },
+          {
+            "value": 1,
+            "element": 174
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 524
+          },
+          {
+            "value": 1,
+            "element": 533
+          },
+          {
+            "value": 1,
+            "element": 536
+          },
+          {
+            "value": 1,
+            "element": 541
+          },
+          {
+            "value": 1,
+            "element": 542
+          },
+          {
+            "value": 1,
+            "element": 544
+          },
+          {
+            "value": 1,
+            "element": 545
+          }
+        ]
+      }
+    ]
   },
   {
     "code": 2654459,
