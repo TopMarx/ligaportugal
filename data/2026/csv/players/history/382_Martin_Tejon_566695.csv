@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 382,3,1,2026-08-08T14:30:00Z,True,3,Casa Pia AC,1,0,False,86,0,1,1,0,0,0,0,0,0,0,2,0,0,4,3,9,55,722,0,0,0
 382,16,2,2026-08-16T19:30:00Z,False,7,FC Famalicão,1,2,False,72,0,0,0,1,0,0,0,0,0,0,0,0,0,1,4,2,55,1751,382,38,344
+382,23,3,2026-08-22T14:30:00Z,True,18,Académico,2,2,False,88,0,0,0,2,0,0,0,0,0,0,1,0,0,2,3,3,55,2419,429,73,356

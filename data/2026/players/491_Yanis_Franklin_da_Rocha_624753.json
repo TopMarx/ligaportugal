@@ -10,8 +10,8 @@
       "event": 4,
       "finished": false,
       "minutes": 0,
-      "provisional_start_time": true,
-      "kickoff_time": "2026-08-31T19:45:00Z",
+      "provisional_start_time": false,
+      "kickoff_time": "2026-08-31T19:15:00Z",
       "event_name": "Jornada 4",
       "is_home": true
     },

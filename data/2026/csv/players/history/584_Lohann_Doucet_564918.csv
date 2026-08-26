@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 584,4,1,2026-08-08T17:00:00Z,True,1,FC Arouca,0,1,False,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,45,15,0,0,0
 584,10,2,2026-08-14T19:15:00Z,False,13,Sporting CP,3,2,False,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,45,18,1,1,0
+584,27,3,2026-08-23T14:30:00Z,True,4,CD Nacional,1,0,False,62,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,3,45,50,14,2,12

@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 149,6,1,2026-08-09T17:00:00Z,False,15,FC Porto,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,157,0,0,0
 149,12,2,2026-08-15T14:30:00Z,True,6,Estrela Amadora,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,210,0,6,-6
+149,26,3,2026-08-22T19:30:00Z,False,13,Sporting CP,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,211,2,17,-15

@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 403,9,1,2026-08-10T19:15:00Z,True,4,CD Nacional,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,3,0,0,0
 403,11,2,2026-08-15T17:00:00Z,False,18,Académico,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,6,0,0,0
+403,25,3,2026-08-23T17:00:00Z,True,7,FC Famalicão,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,18,4,2,2

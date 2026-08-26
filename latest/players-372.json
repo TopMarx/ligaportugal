@@ -2,7 +2,7 @@
   "team_opta_id": 372,
   "team_name": "SC Braga",
   "season": 2026,
-  "generated_at": "2026-08-19T02:50:02.564941+00:00",
+  "generated_at": "2026-08-26T02:58:02.876864+00:00",
   "players": [
     {
       "player_id": 477,
@@ -1017,6 +1017,16 @@
       ]
     },
     {
+      "player_id": 614,
+      "opta_id": 728700,
+      "first_name": "António Gil",
+      "second_name": "Lourenço Oliveira Valério Branco",
+      "web_name": "António Gil",
+      "known_name": "António Gil",
+      "position": "MID",
+      "history": []
+    },
+    {
       "player_id": 474,
       "opta_id": 200602,
       "first_name": "Tiago",
@@ -1061,6 +1071,16 @@
           "transfers_out": 0
         }
       ]
+    },
+    {
+      "player_id": 635,
+      "opta_id": 669939,
+      "first_name": "Tomás",
+      "second_name": "Marqués",
+      "web_name": "Tommy Marqués",
+      "known_name": "",
+      "position": "MID",
+      "history": []
     },
     {
       "player_id": 498,
@@ -1153,6 +1173,16 @@
           "transfers_out": 0
         }
       ]
+    },
+    {
+      "player_id": 627,
+      "opta_id": 579279,
+      "first_name": "Jovan",
+      "second_name": "Milosevic",
+      "web_name": "Milošević",
+      "known_name": "",
+      "position": "FWD",
+      "history": []
     },
     {
       "player_id": 505,

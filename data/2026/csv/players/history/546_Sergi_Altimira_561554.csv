@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 546,2,1,2026-08-08T19:30:00Z,False,6,Estrela Amadora,2,2,False,90,0,0,0,2,0,0,0,0,0,0,0,2,0,0,9,4,60,615,0,0,0
 546,10,2,2026-08-14T19:15:00Z,True,14,Vitória SC,3,2,False,90,1,0,0,2,0,0,0,1,0,0,0,2,1,0,7,9,60,930,108,58,50
+546,26,3,2026-08-22T19:30:00Z,True,16,FC Alverca,3,1,False,90,0,0,0,1,0,0,0,0,0,0,0,2,0,1,10,4,60,2811,849,64,785

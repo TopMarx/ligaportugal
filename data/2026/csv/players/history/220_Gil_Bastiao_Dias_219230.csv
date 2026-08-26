@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 220,1,1,2026-08-07T19:15:00Z,False,5,Estoril Praia,1,1,False,76,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,5,65,1638,0,0,0
 220,16,2,2026-08-16T19:30:00Z,True,17,Marítimo M.,1,2,False,45,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,1,65,2143,159,69,90
+220,25,3,2026-08-23T17:00:00Z,False,11,Santa Clara,1,0,False,45,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,1,65,2043,28,164,-136
