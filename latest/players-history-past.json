@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "generated_at": "2026-08-26T02:58:02.876864+00:00",
+  "generated_at": "2026-09-02T06:10:19.522227+00:00",
   "players": [
     {
       "player_id": 335,
@@ -4899,6 +4899,42 @@
       ]
     },
     {
+      "player_id": 641,
+      "opta_id": 154344,
+      "first_name": "Seko",
+      "second_name": "Fofana",
+      "web_name": "Fofana",
+      "known_name": "Seko Fofana",
+      "position": "MID",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 154344,
+          "start_cost": 65,
+          "end_cost": 56,
+          "total_points": 30,
+          "minutes": 275,
+          "goals_scored": 3,
+          "assists": 1,
+          "clean_sheets": 0,
+          "goals_conceded": 7,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 1,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "attacking_bonus": 0,
+          "defending_bonus": 0,
+          "winning_goals": 1,
+          "key_passes": 1,
+          "clearances_blocks_interceptions": 18,
+          "recoveries": 0,
+          "shots_on_target": 0
+        }
+      ]
+    },
+    {
       "player_id": 352,
       "opta_id": 601477,
       "first_name": "Tamble Ulisses",
@@ -5325,6 +5361,42 @@
           "winning_goals": 2,
           "key_passes": 47,
           "clearances_blocks_interceptions": 148,
+          "recoveries": 0,
+          "shots_on_target": 0
+        }
+      ]
+    },
+    {
+      "player_id": 639,
+      "opta_id": 229666,
+      "first_name": "Pedro Miguel",
+      "second_name": "Gaspar Amaral",
+      "web_name": "Pedro Amaral",
+      "known_name": "Pedro Amaral",
+      "position": "DEF",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 229666,
+          "start_cost": 45,
+          "end_cost": 44,
+          "total_points": 66,
+          "minutes": 1839,
+          "goals_scored": 0,
+          "assists": 3,
+          "clean_sheets": 3,
+          "goals_conceded": 35,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 3,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "attacking_bonus": 2,
+          "defending_bonus": 8,
+          "winning_goals": 0,
+          "key_passes": 11,
+          "clearances_blocks_interceptions": 170,
           "recoveries": 0,
           "shots_on_target": 0
         }
@@ -14649,6 +14721,42 @@
           "winning_goals": 1,
           "key_passes": 19,
           "clearances_blocks_interceptions": 199,
+          "recoveries": 0,
+          "shots_on_target": 0
+        }
+      ]
+    },
+    {
+      "player_id": 643,
+      "opta_id": 493958,
+      "first_name": "Nilton",
+      "second_name": "Varela Lopes",
+      "web_name": "Nilton Varela",
+      "known_name": "Nilton Varela",
+      "position": "DEF",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 493958,
+          "start_cost": 45,
+          "end_cost": 44,
+          "total_points": 1,
+          "minutes": 57,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 1,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "attacking_bonus": 0,
+          "defending_bonus": 0,
+          "winning_goals": 0,
+          "key_passes": 0,
+          "clearances_blocks_interceptions": 4,
           "recoveries": 0,
           "shots_on_target": 0
         }

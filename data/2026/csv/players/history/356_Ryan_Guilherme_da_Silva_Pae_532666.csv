@@ -2,3 +2,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 356,7,1,2026-08-09T19:30:00Z,False,8,Gil Vicente FC,1,0,False,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,50,10,0,0,0
 356,13,2,2026-08-15T19:30:00Z,True,15,FC Porto,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,12,0,0,0
 356,19,3,2026-08-22T17:00:00Z,False,5,Estoril Praia,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,10,0,2,-2
+356,35,4,2026-08-28T19:15:00Z,True,13,Sporting CP,0,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,10,0,0,0

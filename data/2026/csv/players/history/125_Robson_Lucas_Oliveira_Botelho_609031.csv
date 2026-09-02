@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 125,2,1,2026-08-08T19:30:00Z,True,13,Sporting CP,2,2,False,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,45,27,0,0,0
 125,12,2,2026-08-15T14:30:00Z,False,16,FC Alverca,2,2,False,63,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,2,45,58,7,2,5
+125,32,4,2026-08-30T14:30:00Z,False,4,CD Nacional,2,3,False,66,0,1,0,2,0,0,0,0,0,0,0,0,0,1,2,5,45,66,0,2,-2

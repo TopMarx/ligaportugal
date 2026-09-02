@@ -2,3 +2,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 517,2,1,2026-08-08T19:30:00Z,False,6,Estrela Amadora,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,1,0,0,0
 517,10,2,2026-08-14T19:15:00Z,True,14,Vitória SC,3,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,4,0,0,0
 517,26,3,2026-08-22T19:30:00Z,True,16,FC Alverca,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,5,0,0,0
+517,35,4,2026-08-28T19:15:00Z,False,10,Rio Ave FC,0,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,5,0,0,0

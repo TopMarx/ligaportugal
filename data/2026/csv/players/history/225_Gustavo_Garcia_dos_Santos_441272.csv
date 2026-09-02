@@ -2,3 +2,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 225,1,1,2026-08-07T19:15:00Z,False,5,Estoril Praia,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,30,0,0,0
 225,16,2,2026-08-16T19:30:00Z,True,17,Marítimo M.,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,42,0,3,-3
 225,25,3,2026-08-23T17:00:00Z,False,11,Santa Clara,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,37,1,9,-8
+225,34,4,2026-08-30T19:30:00Z,True,8,Gil Vicente FC,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,37,0,1,-1

@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 458,5,1,2026-08-09T19:30:00Z,True,18,Académico,2,2,False,75,0,0,0,2,0,0,0,0,0,0,1,0,0,2,0,3,100,2017,0,0,0
 458,15,2,2026-08-17T19:15:00Z,False,3,Casa Pia AC,0,7,False,58,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,9,100,2319,62,232,-170
+458,31,4,2026-08-31T19:15:00Z,True,5,Estoril Praia,2,1,False,62,0,0,1,0,0,0,0,0,0,0,0,0,0,1,4,3,100,3461,459,92,367

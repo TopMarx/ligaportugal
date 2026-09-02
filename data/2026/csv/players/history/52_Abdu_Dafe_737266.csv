@@ -2,3 +2,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 52,3,1,2026-08-08T14:30:00Z,False,17,Marítimo M.,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,3,0,0,0
 52,15,2,2026-08-17T19:15:00Z,True,2,SL Benfica,0,7,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,4,0,0,0
 52,22,3,2026-08-24T19:15:00Z,False,8,Gil Vicente FC,2,0,False,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,45,4,0,0,0
+52,33,4,2026-08-30T17:00:00Z,True,9,Moreirense FC,0,1,False,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,45,3,0,1,-1

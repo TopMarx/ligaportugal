@@ -2,3 +2,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 161,6,1,2026-08-09T17:00:00Z,False,15,FC Porto,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,6,0,0,0
 161,12,2,2026-08-15T14:30:00Z,True,6,Estrela Amadora,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,11,0,0,0
 161,26,3,2026-08-22T19:30:00Z,False,13,Sporting CP,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,10,0,1,-1
+161,29,4,2026-08-29T14:30:00Z,True,11,Santa Clara,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,10,0,1,-1

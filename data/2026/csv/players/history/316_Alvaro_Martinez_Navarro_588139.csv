@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,attacking_bonus,defending_bonus,winning_goals,key_passes,clearances_blocks_interceptions,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 316,8,1,2026-08-09T19:30:00Z,True,12,SC Braga,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,31,0,0,0
 316,18,2,2026-08-16T17:00:00Z,False,1,FC Arouca,4,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,32,0,2,-2
+316,33,4,2026-08-30T17:00:00Z,False,3,Casa Pia AC,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,28,0,0,0
