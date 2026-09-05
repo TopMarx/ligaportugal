@@ -33,7 +33,7 @@ fixture_id,fixture_opta_id,gameweek,team_h_id,team_h_opta_id,team_h_name,team_h_
 34,2654465,4,7,6644,FC Famalicão,FCF,8,666,Gil Vicente FC,GVFC,0,0,2026-08-30T19:30:00Z,True,True,,
 36,2654463,4,12,372,SC Braga,SCB,14,371,Vitória SC,VSC,1,0,2026-08-31T19:15:00Z,True,True,,
 31,2654468,4,2,251,SL Benfica,SLB,5,2273,Estoril Praia,EPF,2,1,2026-08-31T19:15:00Z,True,True,,
-40,2654474,5,15,201,FC Porto,FCP,9,3536,Moreirense FC,MFC,,,2026-09-04T19:15:00Z,False,False,,
+40,2654474,5,15,201,FC Porto,FCP,9,3536,Moreirense FC,MFC,2,1,2026-09-04T19:15:00Z,False,True,,
 39,2654470,5,6,17370,Estrela Amadora,CFEA,7,6644,FC Famalicão,FCF,,,2026-09-05T14:30:00Z,False,False,,
 37,2654469,5,16,3531,FC Alverca,ALV,12,372,SC Braga,SCB,,,2026-09-05T17:00:00Z,False,False,,
 42,2654473,5,17,740,Marítimo M.,CSM,2,251,SL Benfica,SLB,,,2026-09-05T17:00:00Z,False,False,,
