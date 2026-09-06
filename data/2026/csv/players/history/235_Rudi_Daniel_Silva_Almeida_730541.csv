@@ -3,3 +3,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 235,16,2,2026-08-16T19:30:00Z,True,17,Marítimo M.,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,28,1,5,-4
 235,25,3,2026-08-23T17:00:00Z,False,11,Santa Clara,1,0,False,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,49,25,0,6,-6
 235,34,4,2026-08-30T19:30:00Z,True,8,Gil Vicente FC,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,25,0,1,-1
+235,39,5,2026-09-05T14:30:00Z,False,6,Estrela Amadora,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,26,0,0,0
