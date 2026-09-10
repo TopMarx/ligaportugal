@@ -2,7 +2,7 @@
   "team_opta_id": 3531,
   "team_name": "FC Alverca",
   "season": 2026,
-  "generated_at": "2026-09-08T02:49:15.327169+00:00",
+  "generated_at": "2026-09-10T02:50:42.014402+00:00",
   "players": [
     {
       "player_id": 165,
@@ -2430,6 +2430,52 @@
           "selected": 546,
           "transfers_in": 48,
           "transfers_out": 70
+        }
+      ]
+    },
+    {
+      "player_id": 681,
+      "opta_id": 536694,
+      "first_name": "Matheus",
+      "second_name": "França de Oliveira",
+      "web_name": "Matheus França",
+      "known_name": "Matheus França",
+      "position": "MID",
+      "history": [
+        {
+          "element": 681,
+          "fixture": 37,
+          "opponent_team": 12,
+          "total_points": 0,
+          "was_home": true,
+          "kickoff_time": "2026-09-05T17:00:00Z",
+          "team_h_score": 1,
+          "team_a_score": 2,
+          "round": 5,
+          "modified": false,
+          "minutes": 0,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 0,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "attacking_bonus": 0,
+          "defending_bonus": 0,
+          "winning_goals": 0,
+          "key_passes": 0,
+          "clearances_blocks_interceptions": 0,
+          "recoveries": 0,
+          "shots_on_target": 0,
+          "value": 55,
+          "transfers_balance": 0,
+          "selected": 0,
+          "transfers_in": 0,
+          "transfers_out": 0
         }
       ]
     },
@@ -6673,6 +6719,52 @@
           "selected": 1112,
           "transfers_in": 17,
           "transfers_out": 83
+        }
+      ]
+    },
+    {
+      "player_id": 680,
+      "opta_id": 670072,
+      "first_name": "Óscar",
+      "second_name": "Torrellas",
+      "web_name": "Torrellas",
+      "known_name": "",
+      "position": "DEF",
+      "history": [
+        {
+          "element": 680,
+          "fixture": 37,
+          "opponent_team": 12,
+          "total_points": 0,
+          "was_home": true,
+          "kickoff_time": "2026-09-05T17:00:00Z",
+          "team_h_score": 1,
+          "team_a_score": 2,
+          "round": 5,
+          "modified": false,
+          "minutes": 0,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 0,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "attacking_bonus": 0,
+          "defending_bonus": 0,
+          "winning_goals": 0,
+          "key_passes": 0,
+          "clearances_blocks_interceptions": 0,
+          "recoveries": 0,
+          "shots_on_target": 0,
+          "value": 40,
+          "transfers_balance": 0,
+          "selected": 0,
+          "transfers_in": 0,
+          "transfers_out": 0
         }
       ]
     },
