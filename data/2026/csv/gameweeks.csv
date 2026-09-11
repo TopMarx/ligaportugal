@@ -3,7 +3,7 @@ id,name,deadline_time,average_entry_score,highest_score,finished,data_checked,is
 2,Jornada 2,2026-08-14T19:10:00Z,61,129,True,True,False,False,False
 3,Jornada 3,2026-08-22T14:25:00Z,43,96,True,True,False,False,False
 4,Jornada 4,2026-08-28T19:10:00Z,59,114,True,True,True,False,False
-5,Jornada 5,2026-09-04T19:10:00Z,81,165,False,False,False,True,False
+5,Jornada 5,2026-09-04T19:10:00Z,83,165,True,True,False,True,False
 6,Jornada 6,2026-09-12T14:25:00Z,0,,False,False,False,False,True
 7,Jornada 7,2026-09-19T14:25:00Z,0,,False,False,False,False,False
 8,Jornada 8,2026-10-09T17:40:00Z,0,,False,False,False,False,False
