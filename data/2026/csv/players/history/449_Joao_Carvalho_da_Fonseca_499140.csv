@@ -4,3 +4,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 449,31,4,2026-08-31T19:15:00Z,True,5,Estoril Praia,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,4,0,0,0
 449,42,5,2026-09-05T17:00:00Z,False,17,Marítimo M.,0,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,5,0,0,0
 449,24,5,2026-09-09T19:45:00Z,False,9,Moreirense FC,0,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,5,0,0,0
+449,48,6,2026-09-13T17:00:00Z,True,8,Gil Vicente FC,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,4,0,0,0
