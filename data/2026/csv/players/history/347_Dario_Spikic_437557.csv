@@ -4,3 +4,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 347,19,3,2026-08-22T17:00:00Z,False,5,Estoril Praia,0,2,False,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,55,62,0,3,-3
 347,35,4,2026-08-28T19:15:00Z,True,13,Sporting CP,0,4,False,73,0,0,0,4,0,0,0,0,0,0,0,0,0,1,2,2,55,61,0,2,-2
 347,43,5,2026-09-06T14:30:00Z,False,11,Santa Clara,4,0,False,45,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,55,61,0,1,-1
+347,53,6,2026-09-14T17:45:00Z,True,6,Estrela Amadora,3,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,55,0,6,-6

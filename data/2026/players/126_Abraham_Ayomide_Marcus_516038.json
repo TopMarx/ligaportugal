@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 53,
-      "code": 2654485,
-      "team_h": 10,
-      "team_h_score": null,
-      "team_a": 6,
-      "team_a_score": null,
-      "event": 6,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-09-14T17:45:00Z",
-      "event_name": "Jornada 6",
-      "is_home": false
-    },
-    {
       "id": 58,
       "code": 2654488,
       "team_h": 6,
@@ -611,6 +596,41 @@
       "selected": 3357,
       "transfers_in": 521,
       "transfers_out": 32
+    },
+    {
+      "element": 126,
+      "fixture": 53,
+      "opponent_team": 10,
+      "total_points": 14,
+      "was_home": false,
+      "kickoff_time": "2026-09-14T17:45:00Z",
+      "team_h_score": 3,
+      "team_a_score": 3,
+      "round": 6,
+      "modified": false,
+      "minutes": 83,
+      "goals_scored": 2,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 3,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "attacking_bonus": 1,
+      "defending_bonus": 0,
+      "winning_goals": 0,
+      "key_passes": 2,
+      "clearances_blocks_interceptions": 3,
+      "recoveries": 8,
+      "shots_on_target": 2,
+      "value": 60,
+      "transfers_balance": 779,
+      "selected": 3328,
+      "transfers_in": 900,
+      "transfers_out": 121
     }
   ],
   "history_past": [
