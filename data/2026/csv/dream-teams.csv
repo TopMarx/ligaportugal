@@ -54,14 +54,25 @@ gw,5,8,128,439789,Ianis Stoica,MID,15,False
 gw,5,9,249,577109,William Gomes Carvalho Santos,MID,14,False
 gw,5,10,493,504584,Pau Victor Delgado,FWD,17,False
 gw,5,11,442,212690,Vangelis Pavlidis,FWD,12,False
-season,,1,208,204838,Ignacio de Arruabarrena,GK,30,False
-season,,2,463,171101,Clément Lenglet,DEF,37,False
-season,,3,187,490862,José Fontán,DEF,36,False
-season,,4,265,171771,Jan Kacper Bednarek,DEF,31,False
-season,,5,436,575216,Gianluca Prestianni,MID,52,True
-season,,6,264,514189,Gabriel Veiga Novas,MID,40,False
-season,,7,541,657910,Flávio Ferreira Gonçalves,MID,35,False
-season,,8,249,577109,William Gomes Carvalho Santos,MID,32,False
-season,,9,527,494424,Geny Cipriano Catamo,MID,32,False
-season,,10,442,212690,Vangelis Pavlidis,FWD,45,False
-season,,11,405,165812,Gonçalo Mendes Paciência,FWD,36,False
+gw,6,1,507,482855,Bernardo Caltabiano Parise Fontes,GK,6,False
+gw,6,2,184,550249,Francisco Edgar Chissumba Rodrigues,DEF,9,False
+gw,6,3,170,551143,Diogo Filipe Spencer Marques,DEF,8,False
+gw,6,4,269,440854,Jakub Kiwior,DEF,8,False
+gw,6,5,126,516038,Abraham Ayomide Marcus,MID,14,True
+gw,6,6,396,697414,José Luís Rocha Tavares,MID,11,False
+gw,6,7,128,439789,Ianis Stoica,MID,11,False
+gw,6,8,351,567802,Diogo Bezerra de Oliveira,MID,10,False
+gw,6,9,10,695364,Lorougnon Gohi,MID,8,False
+gw,6,10,442,212690,Vangelis Pavlidis,FWD,13,False
+gw,6,11,657,553468,Dawda Camara,FWD,12,False
+season,,1,208,204838,Ignacio de Arruabarrena,GK,32,False
+season,,2,463,171101,Clément Lenglet,DEF,39,False
+season,,3,187,490862,José Fontán,DEF,37,False
+season,,4,269,440854,Jakub Kiwior,DEF,37,False
+season,,5,436,575216,Gianluca Prestianni,MID,60,True
+season,,6,264,514189,Gabriel Veiga Novas,MID,46,False
+season,,7,126,516038,Abraham Ayomide Marcus,MID,44,False
+season,,8,128,439789,Ianis Stoica,MID,41,False
+season,,9,541,657910,Flávio Ferreira Gonçalves,MID,38,False
+season,,10,442,212690,Vangelis Pavlidis,FWD,58,False
+season,,11,405,165812,Gonçalo Mendes Paciência,FWD,43,False

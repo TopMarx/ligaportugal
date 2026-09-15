@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "generated_at": "2026-09-11T12:50:56.542051+00:00",
+  "generated_at": "2026-09-15T16:50:46.275206+00:00",
   "players": [
     {
       "player_id": 335,
@@ -14145,6 +14145,42 @@
           "winning_goals": 0,
           "key_passes": 3,
           "clearances_blocks_interceptions": 159,
+          "recoveries": 0,
+          "shots_on_target": 0
+        }
+      ]
+    },
+    {
+      "player_id": 694,
+      "opta_id": 510501,
+      "first_name": "José Carlos",
+      "second_name": "Teixeira Lopes dos Reis Gonçalves",
+      "web_name": "Zé Carlos",
+      "known_name": "Zé Carlos I",
+      "position": "DEF",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 510501,
+          "start_cost": 45,
+          "end_cost": 46,
+          "total_points": 109,
+          "minutes": 2453,
+          "goals_scored": 0,
+          "assists": 1,
+          "clean_sheets": 11,
+          "goals_conceded": 28,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 8,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "attacking_bonus": 6,
+          "defending_bonus": 12,
+          "winning_goals": 0,
+          "key_passes": 23,
+          "clearances_blocks_interceptions": 221,
           "recoveries": 0,
           "shots_on_target": 0
         }
