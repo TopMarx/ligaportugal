@@ -5,3 +5,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 375,30,4,2026-08-29T14:30:00Z,False,1,FC Arouca,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,4,0,0,0
 375,42,5,2026-09-05T17:00:00Z,True,2,SL Benfica,0,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,4,0,0,0
 375,52,6,2026-09-14T19:15:00Z,False,9,Moreirense FC,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,4,0,0,0
+375,60,7,2026-09-19T14:30:00Z,False,8,Gil Vicente FC,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,4,0,0,0
