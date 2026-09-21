@@ -65,14 +65,25 @@ gw,6,8,351,567802,Diogo Bezerra de Oliveira,MID,10,False
 gw,6,9,10,695364,Lorougnon Gohi,MID,8,False
 gw,6,10,442,212690,Vangelis Pavlidis,FWD,13,False
 gw,6,11,657,553468,Dawda Camara,FWD,12,False
-season,,1,208,204838,Ignacio de Arruabarrena,GK,32,False
-season,,2,463,171101,Clément Lenglet,DEF,39,False
-season,,3,187,490862,José Fontán,DEF,37,False
-season,,4,269,440854,Jakub Kiwior,DEF,37,False
-season,,5,436,575216,Gianluca Prestianni,MID,60,True
-season,,6,264,514189,Gabriel Veiga Novas,MID,46,False
-season,,7,126,516038,Abraham Ayomide Marcus,MID,44,False
-season,,8,128,439789,Ianis Stoica,MID,41,False
-season,,9,541,657910,Flávio Ferreira Gonçalves,MID,38,False
-season,,10,442,212690,Vangelis Pavlidis,FWD,58,False
-season,,11,405,165812,Gonçalo Mendes Paciência,FWD,43,False
+gw,7,1,27,479272,Ewerton Ferreira da Silva,GK,7,False
+gw,7,2,151,624465,Steven Baseya,DEF,8,False
+gw,7,3,393,201224,Pedro Jorge Pacheco Seabra,DEF,8,False
+gw,7,4,689,449066,Toni Borevkovic,DEF,8,False
+gw,7,5,221,532393,Marcos Vinicios Lopes Moura,MID,17,True
+gw,7,6,262,590186,Victor Mow Froholdt,MID,11,False
+gw,7,7,223,629743,Mathias De Amorim,MID,10,False
+gw,7,8,19,223371,Cihan Kahraman,MID,10,False
+gw,7,9,93,233010,Jordan Holsgrove,MID,9,False
+gw,7,10,241,509577,Georgios Koutsias,FWD,13,False
+gw,7,11,9,444993,André Clóvis Silva Filho,FWD,12,False
+season,,1,242,216050,Diogo Meireles da Costa,GK,34,False
+season,,2,187,490862,José Fontán,DEF,43,False
+season,,3,393,201224,Pedro Jorge Pacheco Seabra,DEF,39,False
+season,,4,269,440854,Jakub Kiwior,DEF,39,False
+season,,5,265,171771,Jan Kacper Bednarek,DEF,39,False
+season,,6,436,575216,Gianluca Prestianni,MID,64,True
+season,,7,264,514189,Gabriel Veiga Novas,MID,51,False
+season,,8,126,516038,Abraham Ayomide Marcus,MID,47,False
+season,,9,128,439789,Ianis Stoica,MID,44,False
+season,,10,442,212690,Vangelis Pavlidis,FWD,61,False
+season,,11,405,165812,Gonçalo Mendes Paciência,FWD,45,False
