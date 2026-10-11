@@ -6,3 +6,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 25,41,5,2026-09-06T19:30:00Z,False,8,Gil Vicente FC,0,1,False,73,1,0,1,0,0,0,0,0,0,0,0,0,1,0,4,9,50,43,2,1,1
 25,46,6,2026-09-12T19:30:00Z,True,14,Vitória SC,2,1,False,90,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2,50,74,20,5,15
 25,58,7,2026-09-20T14:30:00Z,False,6,Estrela Amadora,0,2,False,85,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,3,50,81,8,3,5
+25,64,8,2026-10-10T19:30:00Z,True,5,Estoril Praia,2,1,False,82,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2,50,96,10,1,9
