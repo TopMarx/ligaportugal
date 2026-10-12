@@ -2,7 +2,7 @@
   "team_opta_id": 3084,
   "team_name": "Santa Clara",
   "season": 2026,
-  "generated_at": "2026-10-11T02:43:20.336933+00:00",
+  "generated_at": "2026-10-12T02:49:35.035903+00:00",
   "players": [
     {
       "player_id": 424,
@@ -3962,7 +3962,7 @@
           "defending_bonus": 0,
           "winning_goals": 0,
           "key_passes": 0,
-          "clearances_blocks_interceptions": 0,
+          "clearances_blocks_interceptions": 1,
           "recoveries": 0,
           "shots_on_target": 0,
           "value": 50,
@@ -4544,7 +4544,7 @@
           "defending_bonus": 0,
           "winning_goals": 0,
           "key_passes": 0,
-          "clearances_blocks_interceptions": 2,
+          "clearances_blocks_interceptions": 3,
           "recoveries": 3,
           "shots_on_target": 0,
           "value": 55,

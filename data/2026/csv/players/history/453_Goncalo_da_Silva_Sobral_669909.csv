@@ -6,3 +6,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 453,24,5,2026-09-09T19:45:00Z,False,9,Moreirense FC,0,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,4,0,0,0
 453,48,6,2026-09-13T17:00:00Z,True,8,Gil Vicente FC,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,3,0,0,0
 453,59,7,2026-09-20T19:30:00Z,False,15,FC Porto,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,3,0,0,0
+453,66,8,2026-10-11T17:00:00Z,True,14,Vitória SC,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,3,0,0,0
