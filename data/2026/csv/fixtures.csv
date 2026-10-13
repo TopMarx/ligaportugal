@@ -69,7 +69,7 @@ fixture_id,fixture_opta_id,gameweek,team_h_id,team_h_opta_id,team_h_name,team_h_
 71,2654503,8,10,2847,Rio Ave FC,RAFC,4,2003,CD Nacional,CDN,3,2,2026-10-11T14:30:00Z,False,True,,
 66,2654504,8,2,251,SL Benfica,SLB,14,371,Vitória SC,VSC,2,0,2026-10-11T17:00:00Z,False,True,,
 65,2654497,8,1,5674,FC Arouca,FCA,6,17370,Estrela Amadora,CFEA,1,0,2026-10-11T19:30:00Z,False,True,,
-68,2654500,8,7,6644,FC Famalicão,FCF,16,3531,FC Alverca,ALV,,,2026-10-12T19:15:00Z,False,False,,
+68,2654500,8,7,6644,FC Famalicão,FCF,16,3531,FC Alverca,ALV,1,4,2026-10-12T19:15:00Z,False,True,,
 17,2654445,8,12,372,SC Braga,SCB,8,666,Gil Vicente FC,GVFC,,,2026-10-19T19:15:00Z,False,False,,
 81,2654513,9,14,371,Vitória SC,VSC,17,740,Marítimo M.,CSM,,,2026-10-23T19:45:00Z,False,False,,
 76,2654506,9,6,17370,Estrela Amadora,CFEA,3,5191,Casa Pia AC,CPAC,,,2026-10-24T14:30:00Z,False,False,,
