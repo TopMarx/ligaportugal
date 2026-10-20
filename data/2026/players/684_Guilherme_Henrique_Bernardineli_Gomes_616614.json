@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 17,
-      "code": 2654445,
-      "team_h": 12,
-      "team_h_score": null,
-      "team_a": 8,
-      "team_a_score": null,
-      "event": 8,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-10-19T19:15:00Z",
-      "event_name": "Jornada 8",
-      "is_home": false
-    },
-    {
       "id": 77,
       "code": 2654508,
       "team_h": 8,
@@ -554,8 +539,8 @@
       "total_points": 0,
       "was_home": false,
       "kickoff_time": "2026-10-19T19:15:00Z",
-      "team_h_score": null,
-      "team_a_score": null,
+      "team_h_score": 1,
+      "team_a_score": 2,
       "round": 8,
       "modified": false,
       "minutes": 0,

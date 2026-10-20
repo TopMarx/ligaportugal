@@ -2,7 +2,7 @@
   "team_opta_id": 251,
   "team_name": "SL Benfica",
   "season": 2026,
-  "generated_at": "2026-10-13T02:53:01.553811+00:00",
+  "generated_at": "2026-10-20T02:50:27.301742+00:00",
   "players": [
     {
       "player_id": 462,
@@ -2286,7 +2286,7 @@
           "defending_bonus": 0,
           "winning_goals": 0,
           "key_passes": 1,
-          "clearances_blocks_interceptions": 6,
+          "clearances_blocks_interceptions": 8,
           "recoveries": 5,
           "shots_on_target": 0,
           "value": 60,
@@ -7384,7 +7384,7 @@
           "defending_bonus": 0,
           "winning_goals": 0,
           "key_passes": 1,
-          "clearances_blocks_interceptions": 5,
+          "clearances_blocks_interceptions": 6,
           "recoveries": 2,
           "shots_on_target": 0,
           "value": 60,
