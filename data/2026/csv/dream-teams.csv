@@ -76,14 +76,25 @@ gw,7,8,19,223371,Cihan Kahraman,MID,10,False
 gw,7,9,93,233010,Jordan Holsgrove,MID,9,False
 gw,7,10,241,509577,Georgios Koutsias,FWD,13,False
 gw,7,11,9,444993,André Clóvis Silva Filho,FWD,12,False
-season,,1,242,216050,Diogo Meireles da Costa,GK,34,False
-season,,2,187,490862,José Fontán,DEF,43,False
-season,,3,393,201224,Pedro Jorge Pacheco Seabra,DEF,39,False
-season,,4,269,440854,Jakub Kiwior,DEF,39,False
-season,,5,265,171771,Jan Kacper Bednarek,DEF,39,False
-season,,6,436,575216,Gianluca Prestianni,MID,64,True
-season,,7,264,514189,Gabriel Veiga Novas,MID,51,False
-season,,8,126,516038,Abraham Ayomide Marcus,MID,47,False
+gw,8,1,299,220212,Lucas Alexandre Galdino de Azevedo,GK,11,False
+gw,8,2,431,550342,Samuel Dahl,DEF,13,True
+gw,8,3,302,102384,Ricardo de Sousa Esgaio,DEF,10,False
+gw,8,4,170,551143,Diogo Filipe Spencer Marques,DEF,9,False
+gw,8,5,392,447171,Lucas Soares de Almeida,DEF,9,False
+gw,8,6,668,625775,Sebastian Clemmensen,MID,11,False
+gw,8,7,171,532607,Lucas Figueiredo dos Santos,MID,11,False
+gw,8,8,294,181442,Murilo de Souza Costa,MID,10,False
+gw,8,9,544,473218,Rodrigo Zalazar,MID,9,False
+gw,8,10,671,650313,Abdel Njoya,FWD,11,False
+gw,8,11,304,653517,Walace dos Santos França,FWD,11,False
+season,,1,208,204838,Ignacio de Arruabarrena,GK,40,False
+season,,2,187,490862,José Fontán,DEF,50,False
+season,,3,431,550342,Samuel Dahl,DEF,46,False
+season,,4,393,201224,Pedro Jorge Pacheco Seabra,DEF,45,False
+season,,5,269,440854,Jakub Kiwior,DEF,45,False
+season,,6,436,575216,Gianluca Prestianni,MID,69,True
+season,,7,264,514189,Gabriel Veiga Novas,MID,52,False
+season,,8,126,516038,Abraham Ayomide Marcus,MID,48,False
 season,,9,128,439789,Ianis Stoica,MID,44,False
-season,,10,442,212690,Vangelis Pavlidis,FWD,61,False
-season,,11,405,165812,Gonçalo Mendes Paciência,FWD,45,False
+season,,10,442,212690,Vangelis Pavlidis,FWD,67,False
+season,,11,405,165812,Gonçalo Mendes Paciência,FWD,47,False
