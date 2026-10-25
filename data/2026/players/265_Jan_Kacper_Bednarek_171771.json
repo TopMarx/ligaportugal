@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 77,
-      "code": 2654508,
-      "team_h": 8,
-      "team_h_score": null,
-      "team_a": 15,
-      "team_a_score": null,
-      "event": 9,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-10-24T19:30:00Z",
-      "event_name": "Jornada 9",
-      "is_home": false
-    },
-    {
       "id": 86,
       "code": 2654521,
       "team_h": 15,
@@ -671,6 +656,41 @@
       "selected": 10616,
       "transfers_in": 398,
       "transfers_out": 61
+    },
+    {
+      "element": 265,
+      "fixture": 77,
+      "opponent_team": 8,
+      "total_points": 8,
+      "was_home": false,
+      "kickoff_time": "2026-10-24T19:30:00Z",
+      "team_h_score": 0,
+      "team_a_score": 1,
+      "round": 9,
+      "modified": false,
+      "minutes": 90,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 1,
+      "goals_conceded": 0,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "attacking_bonus": 0,
+      "defending_bonus": 2,
+      "winning_goals": 0,
+      "key_passes": 0,
+      "clearances_blocks_interceptions": 11,
+      "recoveries": 3,
+      "shots_on_target": 1,
+      "value": 68,
+      "transfers_balance": 77,
+      "selected": 10776,
+      "transfers_in": 164,
+      "transfers_out": 87
     }
   ],
   "history_past": [

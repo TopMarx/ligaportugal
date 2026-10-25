@@ -7,3 +7,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 189,47,6,2026-09-13T17:00:00Z,True,11,Santa Clara,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,72,9,3,6
 189,62,7,2026-09-19T19:30:00Z,False,13,Sporting CP,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,75,2,1,1
 189,65,8,2026-10-11T19:30:00Z,True,6,Estrela Amadora,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,73,2,6,-4
+189,73,9,2026-10-24T17:00:00Z,False,16,FC Alverca,0,1,False,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,44,71,0,1,-1
