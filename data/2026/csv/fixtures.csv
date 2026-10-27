@@ -79,7 +79,7 @@ fixture_id,fixture_opta_id,gameweek,team_h_id,team_h_opta_id,team_h_name,team_h_
 74,2654509,9,4,2003,CD Nacional,CDN,12,372,SC Braga,SCB,1,0,2026-10-25T18:00:00Z,False,True,,
 78,2654510,9,10,2847,Rio Ave FC,RAFC,7,6644,FC Famalicão,FCF,0,4,2026-10-25T18:00:00Z,False,True,,
 80,2654512,9,13,255,Sporting CP,SCP,18,3530,Académico,AVFC,1,2,2026-10-25T20:30:00Z,False,True,,
-79,2654511,9,11,3084,Santa Clara,CDSC,2,251,SL Benfica,SLB,,,2026-10-26T18:45:00Z,False,False,,
+79,2654511,9,11,3084,Santa Clara,CDSC,2,251,SL Benfica,SLB,1,2,2026-10-26T18:45:00Z,False,True,,
 85,2654517,10,3,5191,Casa Pia AC,CPAC,13,255,Sporting CP,SCP,,,2026-10-30T20:15:00Z,False,False,,
 89,2654520,10,9,3536,Moreirense FC,MFC,6,17370,Estrela Amadora,CFEA,,,2026-10-31T15:30:00Z,False,False,,
 86,2654521,10,15,201,FC Porto,FCP,5,2273,Estoril Praia,EPF,,,2026-10-31T20:30:00Z,False,False,,
