@@ -1,12 +1,12 @@
 {
   "season": 2026,
-  "fetch_type": "active_gw",
-  "last_run": "2026-10-27T02:50:47.746936+00:00",
+  "fetch_type": "waiting",
+  "last_run": "2026-10-28T02:30:36.595681+00:00",
   "current_gw": 9,
   "last_closed_gw": 8,
   "expected_count": 697,
   "fetched_count": 697,
   "failed_ids": [],
   "completed": true,
-  "event_status": "event-status unavailable"
+  "reason": "GW9 finished but data_checked is False"
 }
