@@ -2,7 +2,7 @@
   "team_opta_id": 371,
   "team_name": "Vitória SC",
   "season": 2026,
-  "generated_at": "2026-10-27T02:50:49.302182+00:00",
+  "generated_at": "2026-10-30T10:54:17.209180+00:00",
   "players": [
     {
       "player_id": 560,
@@ -4866,6 +4866,52 @@
           "transfers_balance": 17,
           "selected": 43,
           "transfers_in": 17,
+          "transfers_out": 0
+        }
+      ]
+    },
+    {
+      "player_id": 699,
+      "opta_id": 619521,
+      "first_name": "Mohammed",
+      "second_name": "Kebdani",
+      "web_name": "Kebdani",
+      "known_name": "",
+      "position": "DEF",
+      "history": [
+        {
+          "element": 699,
+          "fixture": 81,
+          "opponent_team": 17,
+          "total_points": 0,
+          "was_home": true,
+          "kickoff_time": "2026-10-23T19:45:00Z",
+          "team_h_score": 5,
+          "team_a_score": 0,
+          "round": 9,
+          "modified": false,
+          "minutes": 0,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 0,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "attacking_bonus": 0,
+          "defending_bonus": 0,
+          "winning_goals": 0,
+          "key_passes": 0,
+          "clearances_blocks_interceptions": 0,
+          "recoveries": 0,
+          "shots_on_target": 0,
+          "value": 40,
+          "transfers_balance": 0,
+          "selected": 0,
+          "transfers_in": 0,
           "transfers_out": 0
         }
       ]

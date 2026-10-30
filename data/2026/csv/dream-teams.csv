@@ -87,14 +87,25 @@ gw,8,8,294,181442,Murilo de Souza Costa,MID,10,False
 gw,8,9,544,473218,Rodrigo Zalazar,MID,9,False
 gw,8,10,671,650313,Abdel Njoya,FWD,11,False
 gw,8,11,304,653517,Walace dos Santos França,FWD,11,False
-season,,1,208,204838,Ignacio de Arruabarrena,GK,40,False
-season,,2,187,490862,José Fontán,DEF,50,False
-season,,3,431,550342,Samuel Dahl,DEF,46,False
-season,,4,393,201224,Pedro Jorge Pacheco Seabra,DEF,45,False
-season,,5,269,440854,Jakub Kiwior,DEF,45,False
-season,,6,436,575216,Gianluca Prestianni,MID,69,True
-season,,7,264,514189,Gabriel Veiga Novas,MID,52,False
-season,,8,126,516038,Abraham Ayomide Marcus,MID,48,False
-season,,9,128,439789,Ianis Stoica,MID,44,False
-season,,10,442,212690,Vangelis Pavlidis,FWD,67,False
+gw,9,1,28,218495,Patrick Sequeira,GK,8,False
+gw,9,2,218,493741,Rodrigo Pinheiro Ferreira,DEF,10,False
+gw,9,3,207,199259,Javi Sánchez,DEF,9,False
+gw,9,4,553,546426,João Miguel Teixeira Mendes,DEF,9,False
+gw,9,5,25,656753,João Guilherme de Souza Crispim,MID,14,True
+gw,9,6,571,637125,Oumar Camara,MID,12,False
+gw,9,7,219,488049,Óscar Aranda,MID,12,False
+gw,9,8,436,575216,Gianluca Prestianni,MID,12,False
+gw,9,9,440,550252,João Rego,MID,11,False
+gw,9,10,665,220100,Arnel Jakupovic,FWD,12,False
+gw,9,11,407,638268,Luis Fernando Santos Oliveira,FWD,10,False
+season,,1,208,204838,Ignacio de Arruabarrena,GK,46,False
+season,,2,187,490862,José Fontán,DEF,55,False
+season,,3,269,440854,Jakub Kiwior,DEF,51,False
+season,,4,265,171771,Jan Kacper Bednarek,DEF,51,False
+season,,5,431,550342,Samuel Dahl,DEF,49,False
+season,,6,436,575216,Gianluca Prestianni,MID,81,True
+season,,7,264,514189,Gabriel Veiga Novas,MID,54,False
+season,,8,126,516038,Abraham Ayomide Marcus,MID,51,False
+season,,9,442,212690,Vangelis Pavlidis,FWD,72,False
+season,,10,536,432838,Luis Javier Suárez Charris,FWD,50,False
 season,,11,405,165812,Gonçalo Mendes Paciência,FWD,47,False
