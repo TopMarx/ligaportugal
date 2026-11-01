@@ -16,7 +16,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 199,569675,Lee,Hyun-ju,Lee Hyun-ju,,1,5674,FC Arouca,FCA,3,MID,a,,223,0,1,3,0,0,0,0,1,0,0,0,0,0,2,6,13,49,2.3
 200,466464,Naïs,Djouahra,Naïs Djouahra,,1,5674,FC Arouca,FCA,3,MID,a,,757,0,5,5,7,0,0,0,1,0,0,3,4,0,10,33,44,63,17.1
 201,499634,Uladzislau,Marozau,Marozau,,1,5674,FC Arouca,FCA,4,FWD,u,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.4
-202,463055,Iván,Martinez Gonzalvez,Barbero,,1,5674,FC Arouca,FCA,4,FWD,a,,631,5,1,5,5,0,0,0,2,0,0,1,0,3,3,11,44,57,14.0
+202,463055,Iván,Martinez Gonzalvez,Barbero,,1,5674,FC Arouca,FCA,4,FWD,a,,631,5,1,5,5,0,0,0,2,0,0,1,0,3,3,11,44,57,14.1
 203,637702,Mateo,Flores Lozano,Mateo Flores,,1,5674,FC Arouca,FCA,3,MID,a,,243,0,0,1,3,0,0,0,0,0,0,0,0,0,2,7,11,44,0.1
 204,491008,Diogo,Pinheiro Monteiro,Diogo Monteiro,,1,5674,FC Arouca,FCA,2,DEF,a,,18,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,-2,39,0.5
 205,629448,Espen,van Ee,Espen van Ee,,1,5674,FC Arouca,FCA,3,MID,a,,647,1,0,4,6,0,0,0,2,0,0,0,0,0,2,29,23,45,1.2
@@ -37,12 +37,12 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 428,465900,Anatolii,Trubin,Trubin,,2,251,SL Benfica,SLB,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,1.7
 429,465186,Samuel,Jumpe Soares,Samuel Soares,,2,251,SL Benfica,SLB,1,GK,a,,810,0,0,4,8,0,0,0,0,0,15,0,0,0,0,4,37,55,6.2
 430,461266,Alexander,Bah,Bah,,2,251,SL Benfica,SLB,2,DEF,a,,529,1,1,2,7,0,0,0,2,0,0,2,0,0,6,25,29,61,5.8
-431,550342,Samuel,Dahl,Dahl,,2,251,SL Benfica,SLB,2,DEF,a,,791,1,2,4,8,0,0,0,1,0,0,3,2,1,8,48,49,61,13.7
+431,550342,Samuel,Dahl,Dahl,,2,251,SL Benfica,SLB,2,DEF,a,,791,1,2,4,8,0,0,0,1,0,0,3,2,1,8,48,49,61,13.8
 432,537331,Joshua,Wynder,Wynder,,2,251,SL Benfica,SLB,2,DEF,n,Emprestado / On Loan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0.0
 433,483067,António João,Pereira de Albuquerque Tavares da Silva,António Silva,,2,251,SL Benfica,SLB,2,DEF,u,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0.2
 434,465192,Tomás,Lemos Araújo,Tomás Araújo,,2,251,SL Benfica,SLB,2,DEF,a,,769,0,1,3,8,0,0,0,4,0,0,0,0,0,2,44,26,59,15.7
 435,489853,Andreas,Schjelderup,Schjelderup,,2,251,SL Benfica,SLB,3,MID,a,,394,1,2,2,3,0,0,0,0,0,0,6,0,0,20,7,32,103,6.8
-436,575216,Gianluca,Prestianni,Prestianni,,2,251,SL Benfica,SLB,3,MID,a,,748,6,5,5,7,0,0,0,1,0,0,9,0,2,24,21,81,87,60.9
+436,575216,Gianluca,Prestianni,Prestianni,,2,251,SL Benfica,SLB,3,MID,a,,748,6,5,5,7,0,0,0,1,0,0,9,0,2,24,21,81,87,61.0
 437,153680,Armindo,Tué Na Bangna,Bruma,,2,251,SL Benfica,SLB,3,MID,u,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0.3
 438,134103,Fredrik,Aursnes,Aursnes,,2,251,SL Benfica,SLB,3,MID,a,,248,1,1,0,4,0,0,0,1,0,0,0,0,0,2,11,14,74,3.5
 439,447281,Leandro,Barreiro,Barreiro,,2,251,SL Benfica,SLB,3,MID,i,Lesão Desconhecida / Unknown Injury,543,2,1,4,4,0,0,0,1,0,0,1,0,1,4,18,33,64,5.2
@@ -103,7 +103,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 47,502048,David,Sousa Albino,David Sousa,,3,5191,Casa Pia AC,CPAC,2,DEF,a,,855,0,0,2,18,0,0,0,4,1,0,1,12,0,4,109,27,44,0.4
 48,195777,Abdu Cadri,Conté,Abdu Conté,,3,5191,Casa Pia AC,CPAC,2,DEF,a,,231,0,0,0,10,0,0,0,0,0,0,0,0,0,1,11,2,48,0.6
 49,703217,Afonso Manuel,Sobral Vieira,Afonso Vieira,,3,5191,Casa Pia AC,CPAC,2,DEF,n,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.2
-50,703220,Miguel Ângelo,Azevedo Galvão Eira Neves,Miguel Neves,,3,5191,Casa Pia AC,CPAC,4,FWD,n,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.1
+50,703220,Miguel Ângelo,Azevedo Galvão Eira Neves,Miguel Neves,,3,5191,Casa Pia AC,CPAC,4,FWD,n,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.1
 51,636707,Pedro,Silva Rosas,Pedro Rosas,,3,5191,Casa Pia AC,CPAC,2,DEF,a,,661,0,0,3,8,0,0,0,2,0,0,6,4,0,14,54,34,45,0.2
 52,737266,Abdu,Dafé,Abdu Dafe,,3,5191,Casa Pia AC,CPAC,3,MID,a,,77,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,4,43,0.0
 53,181185,Diogo Filipe,Costa Rocha,Rochinha,,3,5191,Casa Pia AC,CPAC,3,MID,a,,287,0,0,0,11,0,0,0,0,0,0,1,0,0,4,6,9,48,0.6
@@ -122,9 +122,9 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 59,588073,Francisco Adriano,Baptista Gonçalves,Francisco Gonçalves,,4,2003,CD Nacional,CDN,2,DEF,a,,450,0,1,1,12,0,0,0,1,0,0,0,2,0,1,38,13,39,0.5
 60,227204,Ivanildo Jorge,Mendes Fernandes,Ivanildo Fernandes,,4,2003,CD Nacional,CDN,2,DEF,a,,45,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,1,39,0.5
 61,497919,José Manuel,Mendes Gomes,José Gomes,,4,2003,CD Nacional,CDN,2,DEF,a,,45,0,0,0,3,0,0,0,0,0,0,0,0,0,0,4,0,48,0.4
-62,200908,Leonardo,Rodrigues dos Santos,Léo Santos,,4,2003,CD Nacional,CDN,2,DEF,d,Lesão Desconhecida / Unknown Injury,405,1,1,1,7,0,0,0,0,0,0,1,4,0,5,37,25,44,14.5
+62,200908,Leonardo,Rodrigues dos Santos,Léo Santos,,4,2003,CD Nacional,CDN,2,DEF,d,Lesão Desconhecida / Unknown Injury,405,1,1,1,7,0,0,0,0,0,0,1,4,0,5,37,25,44,14.4
 63,444193,Ulisses Wilson,Jeronymo Rocha,Ulisses,,4,2003,CD Nacional,CDN,2,DEF,d,Lesão Desconhecida / Unknown Injury,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.2
-64,535544,José Vítor,Lima Cardoso,Zé Vítor,,4,2003,CD Nacional,CDN,2,DEF,a,,765,1,0,2,17,0,0,0,1,0,0,1,10,1,3,81,36,50,12.5
+64,535544,José Vítor,Lima Cardoso,Zé Vítor,,4,2003,CD Nacional,CDN,2,DEF,a,,765,1,0,2,17,0,0,0,1,0,0,1,10,1,3,81,36,50,12.4
 65,531319,Chiheb,Labidi,Labidi,,4,2003,CD Nacional,CDN,3,MID,a,,298,0,0,1,6,0,0,0,0,0,0,1,4,0,5,29,14,49,0.0
 66,504661,Matheus,dos Santos Dias,Matheus Dias,,4,2003,CD Nacional,CDN,3,MID,a,,633,0,0,2,15,0,0,0,1,1,0,0,4,0,2,53,17,44,2.5
 67,630814,Kevyn Vinícius,Medeiros de Freitas,Kevyn Vinícius,,4,2003,CD Nacional,CDN,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.3
@@ -156,76 +156,76 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 87,78315,Joel,Robles,Robles,,5,2273,Estoril Praia,EPF,1,GK,a,,810,0,0,1,15,0,0,0,0,0,19,0,0,0,0,16,23,49,2.1
 88,459633,Felix,Bacher,Bacher,,5,2273,Estoril Praia,EPF,2,DEF,u,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.1
 89,247630,Gonçalo,Faria Costa,Gonçalo Costa,,5,2273,Estoril Praia,EPF,2,DEF,n,Emprestado / On Loan,15,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,1,50,0.1
-90,625764,Pedro Maria,Salgueiro Costa Pessoa Carvalho,Pedro Carvalho,,5,2273,Estoril Praia,EPF,2,DEF,a,,173,0,1,0,5,0,0,0,1,0,0,0,0,0,3,16,11,44,0.9
-91,448403,Yanis,Begraoui,Begraoui,,5,2273,Estoril Praia,EPF,4,FWD,d,Lesão Desconhecida/Unknown Injury,630,2,0,1,10,0,0,0,1,0,0,2,2,0,7,11,26,73,20.8
+90,625764,Pedro Maria,Salgueiro Costa Pessoa Carvalho,Pedro Carvalho,,5,2273,Estoril Praia,EPF,2,DEF,a,,263,0,1,0,9,0,0,0,1,0,0,1,0,0,6,24,12,44,0.9
+91,448403,Yanis,Begraoui,Begraoui,,5,2273,Estoril Praia,EPF,4,FWD,d,Lesão Desconhecida/Unknown Injury,630,2,0,1,10,0,0,0,1,0,0,2,2,0,7,11,26,73,20.7
 92,447213,Jandro,Orellana,Orellana,,5,2273,Estoril Praia,EPF,3,MID,u,Transferido Definitivamente / Permanent Transfer,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,45,0.1
-93,233010,Jordan,Holsgrove,Holsgrove,,5,2273,Estoril Praia,EPF,3,MID,a,,475,0,1,2,8,0,0,0,1,0,0,6,4,0,16,26,26,53,2.8
-94,226949,Rafik,Guitane,Guitane,,5,2273,Estoril Praia,EPF,3,MID,a,,456,1,0,1,10,0,0,0,0,0,0,5,2,0,13,13,27,58,5.1
+93,233010,Jordan,Holsgrove,Holsgrove,,5,2273,Estoril Praia,EPF,3,MID,a,,491,0,1,2,8,0,0,0,1,0,0,6,4,0,16,27,27,53,2.8
+94,226949,Rafik,Guitane,Guitane,,5,2273,Estoril Praia,EPF,3,MID,a,,546,1,0,1,14,0,0,0,0,0,0,5,2,0,13,14,29,58,5.1
 95,171351,João António,Antunes Carvalho,João Carvalho,,5,2273,Estoril Praia,EPF,3,MID,a,,766,0,1,1,14,0,0,0,2,0,0,5,2,0,15,20,26,68,8.1
 96,617504,Tiago,Araújo Brito,Tiago Brito,,5,2273,Estoril Praia,EPF,3,MID,a,,103,0,0,0,3,0,0,0,0,0,0,0,0,0,0,5,5,44,0.1
-97,242600,Miguel Ângelo,da Silva Rocha,Xeka,,5,2273,Estoril Praia,EPF,3,MID,a,,179,0,0,0,4,0,0,0,0,1,0,1,0,0,2,8,4,44,0.4
+97,242600,Miguel Ângelo,da Silva Rocha,Xeka,,5,2273,Estoril Praia,EPF,3,MID,a,,207,0,0,0,7,0,0,0,0,1,0,1,0,0,2,8,5,44,0.4
 98,494924,Israel,Salazar,Salazar,,5,2273,Estoril Praia,EPF,4,FWD,d,Lesão Desconhecida / Unknown Injury,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0.2
 99,502601,Khayon,Edwards,Khayon Edwards,,5,2273,Estoril Praia,EPF,4,FWD,u,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0.0
-100,519264,Martin,Turk,Martin Turk,,5,2273,Estoril Praia,EPF,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.2
-101,180197,Francisco,Reis Ferreira,Ferro,,5,2273,Estoril Praia,EPF,2,DEF,a,,602,0,0,1,11,0,0,0,2,1,0,0,8,0,3,80,17,50,1.8
+100,519264,Martin,Turk,Martin Turk,,5,2273,Estoril Praia,EPF,1,GK,a,,90,0,0,0,4,0,0,0,0,0,7,0,0,0,0,2,3,44,0.2
+101,180197,Francisco,Reis Ferreira,Ferro,,5,2273,Estoril Praia,EPF,2,DEF,a,,675,0,0,1,15,0,0,0,2,1,0,0,10,0,3,93,19,50,1.8
 102,703102,Diogo Alexandre Brasido,Teles Furtado Silva,Diogo Brasido,,5,2273,Estoril Praia,EPF,2,DEF,u,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.1
-103,538721,André Filipe,Ferreira Lacximicant,André Lacximicant,,5,2273,Estoril Praia,EPF,4,FWD,a,,524,0,1,2,9,0,0,0,1,0,0,2,0,0,8,14,22,58,0.8
-104,626107,André Tiago,Ramos das Neves,Peixinho,,5,2273,Estoril Praia,EPF,3,MID,a,,136,1,0,0,0,0,0,0,0,0,0,0,0,0,2,6,11,49,0.0
-105,593066,Tiago Parreira,Parente,Tiago Parente,,5,2273,Estoril Praia,EPF,2,DEF,a,,37,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,2,43,0.2
+103,538721,André Filipe,Ferreira Lacximicant,André Lacximicant,,5,2273,Estoril Praia,EPF,4,FWD,a,,614,0,1,2,13,0,0,0,1,0,0,2,0,0,8,18,24,58,0.8
+104,626107,André Tiago,Ramos das Neves,Peixinho,,5,2273,Estoril Praia,EPF,3,MID,a,,185,1,0,0,1,0,0,0,0,0,0,0,0,0,2,12,12,49,0.0
+105,593066,Tiago Parreira,Parente,Tiago Parente,,5,2273,Estoril Praia,EPF,2,DEF,a,,127,0,0,0,6,0,0,0,0,0,0,0,0,0,1,6,2,43,0.2
 106,704007,Longin,Bimai,Bimai,,5,2273,Estoril Praia,EPF,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.0
-107,465495,Ricard,Sánchez,Ricard Sánchez,,5,2273,Estoril Praia,EPF,2,DEF,a,,640,1,0,2,11,0,0,0,1,0,0,1,0,0,6,43,29,49,0.8
-108,461046,Antef,Tsoungui,Antef Tsoungui,,5,2273,Estoril Praia,EPF,2,DEF,a,,568,0,0,0,14,0,0,0,2,0,0,2,2,0,6,38,10,39,7.2
+107,465495,Ricard,Sánchez,Ricard Sánchez,,5,2273,Estoril Praia,EPF,2,DEF,a,,641,1,0,2,11,0,0,0,1,0,0,1,0,0,6,43,30,49,0.8
+108,461046,Antef,Tsoungui,Antef Tsoungui,,5,2273,Estoril Praia,EPF,2,DEF,a,,658,0,0,0,18,0,0,0,2,0,0,2,2,0,6,45,10,39,7.2
 109,705853,Kelian,Baruti,Kelian Baruti,,5,2273,Estoril Praia,EPF,4,FWD,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.1
 110,499311,Jan,Montes,Montes,,5,2273,Estoril Praia,EPF,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.0
-111,629163,Fabrício,Garcia Andrade,Fabrício Garcia,,5,2273,Estoril Praia,EPF,2,DEF,i,Rotura de Ligamentos / ACL Tear,173,0,0,1,3,0,0,0,0,0,0,0,0,0,1,6,10,40,0.5
+111,629163,Fabrício,Garcia Andrade,Fabrício Garcia,,5,2273,Estoril Praia,EPF,2,DEF,i,Rotura de Ligamentos / ACL Tear,173,0,0,1,3,0,0,0,0,0,0,0,0,0,1,6,10,40,0.4
 112,684055,Philippe,Lanquetin,Lanquetin,,5,2273,Estoril Praia,EPF,2,DEF,u,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.0
 113,439321,Fernando,Medrano,Medrano,,5,2273,Estoril Praia,EPF,2,DEF,a,,435,0,1,1,5,0,0,0,1,0,0,1,0,0,5,22,17,43,0.3
 114,628900,Ismael Sierra,Arnal,Ismael Sierra,,5,2273,Estoril Praia,EPF,2,DEF,a,,630,0,0,1,10,0,0,0,3,0,0,0,10,0,1,73,21,45,0.5
 115,626098,Diogo Alexandre,Aranha Dias,Diogo Dias,,5,2273,Estoril Praia,EPF,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.3
-602,515948,Stélios,Andreou,Andreou,,5,2273,Estoril Praia,EPF,2,DEF,d,Lesão Desconhecida / Unknown Injury,71,0,0,0,2,0,0,0,0,0,0,0,2,0,0,10,3,45,0.0
-615,747812,Jordan Miguel,Silva Arnolin,Jordan Arnolin,Jordan Arnolin,5,2273,Estoril Praia,EPF,2,DEF,a,,117,0,0,0,3,0,0,0,2,0,0,0,0,0,0,5,1,39,0.1
+602,515948,Stélios,Andreou,Andreou,,5,2273,Estoril Praia,EPF,2,DEF,d,Lesão Desconhecida / Unknown Injury,132,0,0,0,3,0,0,0,0,0,0,0,4,0,0,22,7,45,0.0
+615,747812,Jordan Miguel,Silva Arnolin,Jordan Arnolin,Jordan Arnolin,5,2273,Estoril Praia,EPF,2,DEF,a,,178,0,0,0,4,0,0,0,2,0,0,0,0,0,0,12,3,39,0.1
 616,613053,Fletcher,Smythe-Lowe,Fletcher Lowe,,5,2273,Estoril Praia,EPF,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.0
-647,449936,Xavi,Sintes,Xavi Sintes,,5,2273,Estoril Praia,EPF,2,DEF,a,,257,0,0,0,6,0,0,0,0,0,0,0,2,0,0,27,6,40,0.0
-656,591385,Sam,Amissah,Samuel Amissah,,5,2273,Estoril Praia,EPF,2,DEF,a,,115,0,0,0,3,0,0,0,0,0,0,0,0,0,0,13,2,40,0.0
+647,449936,Xavi,Sintes,Xavi Sintes,,5,2273,Estoril Praia,EPF,2,DEF,a,,318,0,0,0,7,0,0,0,0,0,0,0,2,0,0,33,8,40,0.0
+656,591385,Sam,Amissah,Samuel Amissah,,5,2273,Estoril Praia,EPF,2,DEF,a,,143,0,0,0,6,0,0,0,0,0,0,0,0,0,0,18,2,40,0.0
 673,477414,Roko,Jurisic,Roko Jurišić,,5,2273,Estoril Praia,EPF,2,DEF,a,,343,0,0,0,7,0,0,0,0,0,0,1,0,0,3,15,7,44,0.0
-674,548831,Axel,Camblan,Axel Camblan,,5,2273,Estoril Praia,EPF,3,MID,a,,102,0,0,0,3,0,0,0,0,0,0,1,0,0,2,0,3,45,0.0
-675,516347,Nail,Omerovic,Nail Omerović,,5,2273,Estoril Praia,EPF,3,MID,a,,225,0,0,1,4,0,0,0,1,0,0,0,0,0,3,4,5,49,0.0
+674,548831,Axel,Camblan,Axel Camblan,,5,2273,Estoril Praia,EPF,3,MID,a,,130,0,0,0,6,0,0,0,0,0,0,2,0,0,4,0,5,45,0.0
+675,516347,Nail,Omerovic,Nail Omerović,,5,2273,Estoril Praia,EPF,3,MID,a,,265,0,0,1,7,0,0,0,1,0,0,0,0,0,3,4,6,49,0.0
 676,208557,Milan,Robin,Milan Robin,,5,2273,Estoril Praia,EPF,3,MID,a,,194,0,0,0,2,0,0,0,0,0,0,0,0,0,1,12,4,45,0.0
 116,472458,Issiar,Dramé,Dramé,,6,17370,Estrela Amadora,CFEA,2,DEF,u,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.3
 117,663601,Georgii,Tunguliiadi,Tunguliiadi,,6,17370,Estrela Amadora,CFEA,2,DEF,u,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.1
 118,203757,Rodrigo,Cunha Pereira de Pinho,Rodrigo Pinho,,6,17370,Estrela Amadora,CFEA,4,FWD,u,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0.7
 119,491006,Diogo,Carvalho Pinto,Diogo Pinto,,6,17370,Estrela Amadora,CFEA,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.5
 120,625769,David,Allen Grilo,David Grilo,,6,17370,Estrela Amadora,CFEA,1,GK,a,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-1,44,0.1
-121,492318,Jefferson Anilson,Silva Encada,Jefferson Encada,,6,17370,Estrela Amadora,CFEA,2,DEF,a,,152,0,0,0,4,0,0,0,1,0,0,0,0,0,2,15,5,44,0.2
+121,492318,Jefferson Anilson,Silva Encada,Jefferson Encada,,6,17370,Estrela Amadora,CFEA,2,DEF,a,,174,0,0,0,5,0,0,0,1,0,0,0,0,0,2,15,6,44,0.2
 122,500775,Bernardo,Schappo,Bernardo Schappo,,6,17370,Estrela Amadora,CFEA,2,DEF,a,,174,0,0,0,4,0,0,0,0,0,0,0,0,0,0,19,3,43,0.3
-123,492356,Luan,Patrick Wiedthauper,Luan Patrick,,6,17370,Estrela Amadora,CFEA,2,DEF,a,,720,0,0,0,15,0,0,0,2,0,0,0,6,0,1,65,14,44,1.4
+123,492356,Luan,Patrick Wiedthauper,Luan Patrick,,6,17370,Estrela Amadora,CFEA,2,DEF,a,,810,0,0,0,17,0,0,0,2,0,0,0,6,0,2,74,15,44,1.4
 124,487143,Atanas,Atanasov Chernev,Atanas Chernev,,6,17370,Estrela Amadora,CFEA,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0.9
 125,609031,Robson Lucas,Oliveira Botelho,Robinho,,6,17370,Estrela Amadora,CFEA,3,MID,d,Lesão Desconhecida / Unknown Injury,216,0,1,0,5,0,0,0,1,0,0,0,0,0,2,6,9,44,0.2
-126,516038,Abraham,Ayomide Marcus,Abraham Marcus,,6,17370,Estrela Amadora,CFEA,3,MID,a,,801,4,1,0,17,0,0,0,1,0,0,7,0,0,15,15,51,63,17.8
+126,516038,Abraham,Ayomide Marcus,Abraham Marcus,,6,17370,Estrela Amadora,CFEA,3,MID,a,,891,4,1,0,19,0,0,0,1,0,0,7,0,0,15,20,53,63,17.8
 127,704008,João Moisés,Gastão,João Gastão,,6,17370,Estrela Amadora,CFEA,3,MID,u,Emprestado / On Loan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.0
-128,439789,Ianis,Stoica,Ianis Stoica,,6,17370,Estrela Amadora,CFEA,3,MID,a,,605,4,2,0,15,0,0,1,0,0,0,2,0,1,10,21,46,58,9.8
+128,439789,Ianis,Stoica,Ianis Stoica,,6,17370,Estrela Amadora,CFEA,3,MID,a,,672,4,2,0,16,0,0,1,0,0,0,2,0,1,11,24,48,58,9.7
 129,672227,Emerson,Pedro Vanga,Emerson Vanga,,6,17370,Estrela Amadora,CFEA,3,MID,a,,65,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,2,45,0.0
 130,684374,Alisson,Souza de Jesus,Alisson Souza,,6,17370,Estrela Amadora,CFEA,4,FWD,a,,16,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,44,0.6
-131,484324,Leandro,Antonetti,Leandro Antonetti,,6,17370,Estrela Amadora,CFEA,4,FWD,a,,799,4,2,0,17,0,0,0,1,0,0,0,0,1,5,24,41,47,21.9
+131,484324,Leandro,Antonetti,Leandro Antonetti,,6,17370,Estrela Amadora,CFEA,4,FWD,a,,889,4,2,0,19,0,0,0,1,0,0,1,0,1,7,27,44,47,21.8
 132,660579,João Paulo,Meneses do Vale,João Vale,,6,17370,Estrela Amadora,CFEA,2,DEF,u,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.0
-133,545193,Kevin,Höög Jansson,Höög Jansson,,6,17370,Estrela Amadora,CFEA,3,MID,a,,47,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,4,43,0.0
+133,545193,Kevin,Höög Jansson,Höög Jansson,,6,17370,Estrela Amadora,CFEA,3,MID,a,,129,0,1,0,2,0,0,0,0,0,0,0,0,0,0,7,9,43,0.0
 134,570045,Chilohem,Onuoha,Onuoha,,6,17370,Estrela Amadora,CFEA,4,FWD,n,Emprestado / On Loan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.1
-135,577061,Tom,Moustier,Moustier,,6,17370,Estrela Amadora,CFEA,3,MID,a,,18,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,45,0.0
+135,577061,Tom,Moustier,Moustier,,6,17370,Estrela Amadora,CFEA,3,MID,a,,25,0,0,0,2,0,0,0,0,0,0,0,0,0,1,2,2,45,0.0
 136,720756,Eddy,Doué,Doué,,6,17370,Estrela Amadora,CFEA,3,MID,a,,718,0,3,0,15,0,0,0,4,0,0,3,2,0,10,38,27,45,2.7
 137,459655,Sydney,van Hooijdonk,van Hooijdonk,,6,17370,Estrela Amadora,CFEA,4,FWD,n,Emprestado / On Loan,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,49,0.3
 138,512352,Yahya,Kalley,Yahya Kalley,,6,17370,Estrela Amadora,CFEA,2,DEF,u,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.0
 139,728984,Henrique Gabriel,Kremer Poniewas,Henrique Poniewas,,6,17370,Estrela Amadora,CFEA,4,FWD,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.2
 140,626824,Mathew,Gbomadu,Gbomadu,,6,17370,Estrela Amadora,CFEA,4,FWD,u,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
-141,581730,Stefan,Leković,Leković,,6,17370,Estrela Amadora,CFEA,2,DEF,a,,720,0,0,0,15,0,0,0,3,0,0,0,2,0,1,46,10,49,0.2
+141,581730,Stefan,Leković,Leković,,6,17370,Estrela Amadora,CFEA,2,DEF,a,,810,0,0,0,17,0,0,0,3,0,0,0,2,0,2,53,11,49,0.2
 142,514166,Eduardo,dos Santos Haesler,Dudu,,6,17370,Estrela Amadora,CFEA,1,GK,n,Emprestado / On Loan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.0
-143,547110,Max,Scholze,Max Scholze,,6,17370,Estrela Amadora,CFEA,2,DEF,a,,651,1,1,0,13,0,0,0,3,0,0,1,4,0,5,58,23,45,0.5
+143,547110,Max,Scholze,Max Scholze,,6,17370,Estrela Amadora,CFEA,2,DEF,a,,741,1,1,0,15,0,0,0,3,0,0,1,4,0,5,64,24,45,0.5
 144,663657,Beni,Souza,Beni Souza,,6,17370,Estrela Amadora,CFEA,3,MID,a,,210,0,2,0,2,0,0,0,1,0,0,0,0,0,5,7,14,48,0.6
 145,626505,Samuel,Brás de Ceita,Samu,,6,17370,Estrela Amadora,CFEA,3,MID,u,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
-146,165800,Luís Rafael,Soares Alves,Rafa Soares,,6,17370,Estrela Amadora,CFEA,2,DEF,a,,779,0,2,0,16,0,0,0,0,0,0,5,0,0,17,54,23,50,2.1
-147,538661,Lovro,Zvonarek,Zvonarek,,6,17370,Estrela Amadora,CFEA,3,MID,a,,763,0,0,0,16,0,0,0,0,0,0,3,0,0,9,18,21,53,0.3
-148,230955,Leonardo Matias,Baiersdorf Linck,Léo Linck,,6,17370,Estrela Amadora,CFEA,1,GK,a,,810,0,0,0,17,0,0,0,0,0,25,0,0,0,1,8,22,50,1.0
-588,629591,Lucas,Mincarelli,Mincarelli,,6,17370,Estrela Amadora,CFEA,2,DEF,a,,30,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,2,39,0.1
-593,696668,Santiago,Ferreira e Serra,Ferreira Serra,Santiago Serra,6,17370,Estrela Amadora,CFEA,3,MID,a,,388,0,0,0,8,0,0,0,0,0,0,1,6,0,5,26,17,43,0.5
+146,165800,Luís Rafael,Soares Alves,Rafa Soares,,6,17370,Estrela Amadora,CFEA,2,DEF,a,,786,0,2,0,17,0,0,0,0,0,0,5,0,0,18,55,24,50,2.1
+147,538661,Lovro,Zvonarek,Zvonarek,,6,17370,Estrela Amadora,CFEA,3,MID,a,,853,1,0,0,18,0,0,0,0,0,0,3,0,0,9,23,28,53,0.3
+148,230955,Leonardo Matias,Baiersdorf Linck,Léo Linck,,6,17370,Estrela Amadora,CFEA,1,GK,a,,900,0,0,0,19,0,0,0,0,0,27,0,0,0,1,8,24,50,1.0
+588,629591,Lucas,Mincarelli,Mincarelli,,6,17370,Estrela Amadora,CFEA,2,DEF,a,,112,0,0,0,2,0,0,0,0,0,0,0,0,0,0,11,4,39,0.1
+593,696668,Santiago,Ferreira e Serra,Ferreira Serra,Santiago Serra,6,17370,Estrela Amadora,CFEA,3,MID,a,,478,0,0,0,10,0,0,0,1,0,0,1,8,0,5,30,20,43,0.5
 600,195364,Joan,Jordán,Joan Jordán,,6,17370,Estrela Amadora,CFEA,3,MID,a,,111,0,0,0,1,0,0,0,1,0,0,0,0,0,2,8,4,48,0.0
 666,616489,Rodrigo,Dudok,Rodrigo Dudok,,6,17370,Estrela Amadora,CFEA,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
 677,588853,Jeremy,Arévalo,Jeremy Arévalo,,6,17370,Estrela Amadora,CFEA,4,FWD,d,Lesão Desconhecida / Unknown Injury,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.0
@@ -234,9 +234,9 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 213,199209,Ivan,Zlobin,Zlobin,,7,6644,FC Famalicão,FCF,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.6
 214,233774,Lazar,Carevic,Carevic,,7,6644,FC Famalicão,FCF,1,GK,a,,810,0,0,3,11,0,0,0,0,0,18,0,0,0,0,4,33,49,16.2
 215,567595,Gabriel,Cabral da Cruz,Gabriel Cabral,,7,6644,FC Famalicão,FCF,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.2
-216,448101,Léo,Realpe,Realpe,,7,6644,FC Famalicão,FCF,2,DEF,a,,600,0,0,2,9,0,0,0,1,0,0,0,6,0,0,60,24,49,2.6
+216,448101,Léo,Realpe,Realpe,,7,6644,FC Famalicão,FCF,2,DEF,a,,600,0,0,2,9,0,0,0,1,0,0,0,6,0,0,60,24,48,2.6
 217,530932,Pedro,Bondo Francisco,Pedro Bondo,,7,6644,FC Famalicão,FCF,2,DEF,a,,595,0,0,2,8,0,0,0,2,0,0,0,0,0,1,40,19,43,2.4
-218,493741,Rodrigo,Pinheiro Ferreira,Rodrigo Pinheiro,,7,6644,FC Famalicão,FCF,2,DEF,a,,802,0,2,3,11,0,0,0,1,0,0,2,0,0,7,61,33,54,16.7
+218,493741,Rodrigo,Pinheiro Ferreira,Rodrigo Pinheiro,,7,6644,FC Famalicão,FCF,2,DEF,a,,802,0,2,3,11,0,0,0,1,0,0,2,0,0,7,61,33,54,16.6
 219,488049,Óscar,Aranda,Aranda,,7,6644,FC Famalicão,FCF,3,MID,a,,137,2,1,0,1,0,0,0,0,0,0,0,0,0,3,2,23,63,1.0
 220,219230,Gil,Bastião Dias,Gil Dias,,7,6644,FC Famalicão,FCF,3,MID,a,,463,0,1,2,8,0,0,0,1,0,0,2,0,0,9,18,18,63,3.6
 221,532393,Marcos Vinicios,Lopes Moura,Sorriso,,7,6644,FC Famalicão,FCF,3,MID,a,,741,2,2,3,10,0,0,0,1,0,0,2,2,0,8,34,42,70,12.2
@@ -250,7 +250,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 229,620512,Marcos,Peña,Marcos Peña,,7,6644,FC Famalicão,FCF,3,MID,a,,399,0,1,2,4,0,0,0,1,0,0,0,4,0,2,23,19,44,0.2
 230,646585,Rafael,Correia Venâncio,Rafael Venâncio,,7,6644,FC Famalicão,FCF,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.2
 231,677417,Gonzalo,Pastor,Gonzalo Pastor,,7,6644,FC Famalicão,FCF,3,MID,n,Emprestado / On Loan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
-232,708208,Lamine,Beye,Lamine Beye,,7,6644,FC Famalicão,FCF,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.1
+232,708208,Lamine,Beye,Lamine Beye,,7,6644,FC Famalicão,FCF,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0.1
 233,710007,Matheus,Mattara Colombo,Matheus Mattara,,7,6644,FC Famalicão,FCF,2,DEF,i,Lesão Desconhecida / Unknown Injury,19,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,38,0.2
 234,578532,Vojin,Serafimovic,Serafimovic,,7,6644,FC Famalicão,FCF,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.2
 235,730541,Rudi Daniel,Silva Almeida,Rudi Almeida,,7,6644,FC Famalicão,FCF,4,FWD,n,Emprestado / On Loan,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,49,0.1
@@ -259,7 +259,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 238,578329,Finn,van Breemen,van Breemen,,7,6644,FC Famalicão,FCF,2,DEF,a,,630,1,0,2,7,0,0,0,3,0,0,0,12,0,3,73,35,46,13.2
 239,640620,Mathis,Jangéal,Jangéal,,7,6644,FC Famalicão,FCF,3,MID,a,,7,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,46,0.1
 240,570691,Tamás,Szücs,Szücs,,7,6644,FC Famalicão,FCF,3,MID,a,,336,0,0,1,4,0,0,0,0,0,0,0,2,0,1,14,12,52,0.0
-241,509577,Georgios,Koutsias,Koutsias,,7,6644,FC Famalicão,FCF,4,FWD,a,,684,5,0,2,8,0,0,0,0,0,0,0,0,1,2,6,40,60,7.6
+241,509577,Georgios,Koutsias,Koutsias,,7,6644,FC Famalicão,FCF,4,FWD,a,,684,5,0,2,8,0,0,0,0,0,0,0,0,1,2,6,40,60,7.7
 663,511520,Víctor,Rofino Gordo,Víctor Rofino,Víctor Rofino,7,6644,FC Famalicão,FCF,2,DEF,a,,360,1,0,2,5,0,0,0,2,0,0,0,4,0,0,34,22,40,0.8
 664,625881,Patricio,Salas,Patricio Salas,,7,6644,FC Famalicão,FCF,4,FWD,a,,63,0,0,0,2,0,0,0,0,0,0,0,0,0,1,6,3,50,0.0
 700,669921,Juvenal Augusto,Gomes Correia,Juvenal Correia,,7,6644,FC Famalicão,FCF,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.0
@@ -297,35 +297,35 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 607,545881,Mohamed,Kaba,Kaba,,8,666,Gil Vicente FC,GVFC,4,FWD,a,,225,0,1,0,5,0,0,0,2,0,0,0,0,0,1,3,8,45,0.2
 621,748124,Tiago,Rêgo Ferreira,Tiago Ferreira,Tiago Ferreira,8,666,Gil Vicente FC,GVFC,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.0
 684,616614,Guilherme Henrique,Bernardineli Gomes,Guilherme,Guilherme Gomes,8,666,Gil Vicente FC,GVFC,3,MID,a,,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,45,0.0
-267,515349,Leonardo,Vonić,Vonić,,9,3536,Moreirense FC,MFC,4,FWD,a,,287,1,3,4,0,0,0,0,0,0,0,0,0,1,2,10,23,55,0.3
+267,515349,Leonardo,Vonić,Vonić,,9,3536,Moreirense FC,MFC,4,FWD,a,,354,1,3,4,1,0,0,0,0,0,0,0,0,1,3,10,25,55,0.3
 308,592930,Leandro Henrique,de Sousa Santos,Leandro Santos,,9,3536,Moreirense FC,MFC,2,DEF,a,,212,0,0,0,6,0,0,0,1,0,0,0,0,0,2,15,4,44,0.4
-309,564886,Dinis Lourenço,Casals Namura Borges Pinto,Dinis Pinto,,9,3536,Moreirense FC,MFC,2,DEF,a,,650,1,0,1,10,0,0,0,1,0,0,1,2,0,5,59,26,50,2.8
-310,551203,Gilberto,Dambi Batista,Gilberto Batista,,9,3536,Moreirense FC,MFC,2,DEF,a,,810,0,0,1,16,0,0,0,4,0,0,0,16,0,1,118,28,50,0.4
+309,564886,Dinis Lourenço,Casals Namura Borges Pinto,Dinis Pinto,,9,3536,Moreirense FC,MFC,2,DEF,a,,740,1,0,1,11,0,0,0,1,0,0,1,2,0,5,65,28,50,2.8
+310,551203,Gilberto,Dambi Batista,Gilberto Batista,,9,3536,Moreirense FC,MFC,2,DEF,a,,900,0,0,1,17,0,0,0,4,0,0,0,18,0,1,135,32,50,0.4
 311,209619,Jóbson,de Brito Gonzaga,Maracás,,9,3536,Moreirense FC,MFC,2,DEF,a,,608,0,0,1,13,1,0,0,2,0,0,0,10,0,0,91,19,49,2.4
 312,683585,Afonso,Assis,Afonso Assis,,9,3536,Moreirense FC,MFC,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.1
-313,502219,Guilherme,Liberato Tomas de Aquino,Guilherme Liberato,,9,3536,Moreirense FC,MFC,3,MID,a,,568,0,0,1,10,0,0,0,1,1,0,0,8,0,1,52,18,45,0.1
-314,674597,Yan Lincon,Farias de Sousa,Maranhão,,9,3536,Moreirense FC,MFC,4,FWD,a,,100,0,0,0,5,0,0,0,0,0,0,0,0,0,0,1,6,49,0.7
-315,205523,André Filipe,Magalhães Ribeiro Ferreira,André Ferreira,,9,3536,Moreirense FC,MFC,1,GK,a,,810,0,0,1,16,0,0,0,0,0,29,0,0,0,1,3,29,50,1.6
-316,588139,Álvaro,Martínez Navarro,Álvaro Martínez,,9,3536,Moreirense FC,MFC,2,DEF,a,,10,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,44,0.1
-317,589977,Francisco Miguel,Teixeira Domingues,Kiko,,9,3536,Moreirense FC,MFC,2,DEF,a,,796,1,0,1,16,0,0,0,2,0,0,1,8,1,7,89,30,45,1.5
-318,551121,Rodrigo,Alonso Martin,Rodrigo Alonso,,9,3536,Moreirense FC,MFC,3,MID,a,,375,0,0,0,13,0,0,0,1,0,0,1,0,0,5,12,12,49,0.2
-319,612313,Mateja,Stjepanović,Mateja Stjepanović,,9,3536,Moreirense FC,MFC,3,MID,a,,269,0,0,0,7,0,0,0,1,0,0,0,2,0,1,29,10,43,0.9
+313,502219,Guilherme,Liberato Tomas de Aquino,Guilherme Liberato,,9,3536,Moreirense FC,MFC,3,MID,a,,658,0,0,1,11,0,0,0,1,1,0,1,10,0,3,55,23,45,0.1
+314,674597,Yan Lincon,Farias de Sousa,Maranhão,,9,3536,Moreirense FC,MFC,4,FWD,a,,122,0,0,0,5,0,0,0,0,0,0,0,0,0,0,2,7,49,0.7
+315,205523,André Filipe,Magalhães Ribeiro Ferreira,André Ferreira,,9,3536,Moreirense FC,MFC,1,GK,a,,900,0,0,1,17,0,0,0,0,0,29,0,0,0,1,3,31,50,1.6
+316,588139,Álvaro,Martínez Navarro,Álvaro Martínez,,9,3536,Moreirense FC,MFC,2,DEF,a,,64,0,0,0,2,0,0,0,0,0,0,0,0,0,1,4,2,44,0.1
+317,589977,Francisco Miguel,Teixeira Domingues,Kiko,,9,3536,Moreirense FC,MFC,2,DEF,a,,831,1,0,1,16,0,0,0,2,0,0,1,8,1,7,92,31,45,1.5
+318,551121,Rodrigo,Alonso Martin,Rodrigo Alonso,,9,3536,Moreirense FC,MFC,3,MID,a,,386,0,0,0,13,0,0,0,1,0,0,1,0,0,5,14,13,49,0.2
+319,612313,Mateja,Stjepanović,Mateja Stjepanović,,9,3536,Moreirense FC,MFC,3,MID,a,,269,0,0,0,7,0,0,0,1,0,0,0,2,0,1,29,10,43,0.8
 320,510442,Francisco Miguel Ribeiro,Tomé Tavares Bondoso,Kiko Bondoso,,9,3536,Moreirense FC,MFC,3,MID,a,,352,0,1,4,3,0,0,0,1,0,0,0,2,0,3,13,20,54,0.5
 321,538182,Jimi,Gower,Jimi Gower,,9,3536,Moreirense FC,MFC,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
-322,612863,Landerson,Costa Araújo,Landerson,,9,3536,Moreirense FC,MFC,3,MID,a,,431,0,0,1,13,0,0,0,1,0,0,0,0,0,1,25,13,50,0.0
-323,461212,Nile,John,Nile John,,9,3536,Moreirense FC,MFC,3,MID,a,,648,2,0,5,11,0,0,0,2,0,0,1,0,0,5,38,32,45,1.0
+322,612863,Landerson,Costa Araújo,Landerson,,9,3536,Moreirense FC,MFC,3,MID,a,,498,1,0,1,14,0,0,0,1,0,0,0,0,0,1,28,20,50,0.0
+323,461212,Nile,John,Nile John,,9,3536,Moreirense FC,MFC,3,MID,a,,738,3,0,5,12,0,0,0,2,0,0,1,2,1,6,42,42,45,1.0
 324,728867,Miguel,Andrade Silva,Miguel Silva,,9,3536,Moreirense FC,MFC,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.0
-325,651277,Kevyn Henrique,Monteiro de Souza,Kevyn Monteiro,,9,3536,Moreirense FC,MFC,2,DEF,a,,209,0,0,0,4,0,0,0,1,0,0,0,2,0,0,25,8,39,0.9
+325,651277,Kevyn Henrique,Monteiro de Souza,Kevyn Monteiro,,9,3536,Moreirense FC,MFC,2,DEF,a,,299,0,0,0,5,0,0,0,1,0,0,0,4,0,0,43,12,39,0.9
 326,687293,José Janderson,da Silva Marques,Janderson,,9,3536,Moreirense FC,MFC,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.1
 327,513352,Alexandre,Duville-Parsemain,Duville-Parsemain,,9,3536,Moreirense FC,MFC,4,FWD,d,Lesão Desconhecida/Unknown Injury,432,1,1,1,11,0,0,0,1,0,0,1,0,0,3,9,17,57,0.2
 328,499182,Koby,Mottoh,Mottoh,,9,3536,Moreirense FC,MFC,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0.0
 329,653619,Wanderson Carlos,Ferreira dos Santos,Aranha,,9,3536,Moreirense FC,MFC,1,GK,a,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-1,44,0.1
 330,596572,Michael,Dacosta,Michael Dacosta,,9,3536,Moreirense FC,MFC,3,MID,a,,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,48,0.0
 331,550246,João Miguel,Fins Veloso,João Veloso,,9,3536,Moreirense FC,MFC,3,MID,a,,247,1,2,1,4,0,0,0,1,0,0,1,0,0,3,6,19,49,1.7
-530,575808,Manuel,Ascenção Bebiano Mendonça,Manuel Mendonça,Manuel Mendonça,9,3536,Moreirense FC,MFC,3,MID,a,,513,2,0,3,7,0,0,0,1,0,0,1,2,0,5,16,28,45,1.5
+530,575808,Manuel,Ascenção Bebiano Mendonça,Manuel Mendonça,Manuel Mendonça,9,3536,Moreirense FC,MFC,3,MID,a,,591,2,1,3,8,0,0,0,1,0,0,2,2,0,7,19,34,45,1.5
 596,639373,Afonso,Fernandes Lopes Vieira,Afonso Vieira,Afonso Vieira,9,3536,Moreirense FC,MFC,4,FWD,a,,45,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,50,0.0
-636,574717,Tiago,Alves Pinto Andrade,Tiago Andrade,Tiago Andrade,9,3536,Moreirense FC,MFC,3,MID,a,,398,2,1,2,4,0,0,0,0,0,0,2,2,1,7,28,31,55,0.4
-686,612694,Chipyoka,Songa,Chipyoka Songa,,9,3536,Moreirense FC,MFC,3,MID,a,,36,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,2,45,0.0
+636,574717,Tiago,Alves Pinto Andrade,Tiago Andrade,Tiago Andrade,9,3536,Moreirense FC,MFC,3,MID,a,,488,2,2,2,5,0,0,0,0,0,0,2,2,1,8,31,36,55,0.4
+686,612694,Chipyoka,Songa,Chipyoka Songa,,9,3536,Moreirense FC,MFC,3,MID,a,,58,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,3,45,0.0
 698,754250,Francisco,Barbosa Sampaio,Francisco Sampaio,,9,3536,Moreirense FC,MFC,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.0
 332,447136,Cezary,Pawet Miszta,Pawet Miszta,,10,2847,Rio Ave FC,RAFC,1,GK,d,Intervenção Cirúrgica/Surgical Intervention,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0.5
 333,647830,Antzelo,Sina,Sina,,10,2847,Rio Ave FC,RAFC,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.1
@@ -372,10 +372,10 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 390,125466,Frederico André,Ferrão Venâncio,Frederico Venâncio,,11,3084,Santa Clara,CDSC,2,DEF,u,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.1
 391,653779,Henrique,Fernandes da Silva,Henrique Silva,,11,3084,Santa Clara,CDSC,2,DEF,a,,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,43,0.1
 392,447171,Lucas,Soares de Almeida,Lucas Soares,,11,3084,Santa Clara,CDSC,2,DEF,a,,449,0,1,3,3,0,0,0,1,0,0,0,0,0,2,24,25,49,0.4
-393,201224,Pedro Jorge,Pacheco Seabra,Pedro Pacheco,,11,3084,Santa Clara,CDSC,2,DEF,a,,810,0,1,5,6,0,0,0,2,0,0,0,8,0,3,79,45,45,20.2
+393,201224,Pedro Jorge,Pacheco Seabra,Pedro Pacheco,,11,3084,Santa Clara,CDSC,2,DEF,a,,810,0,1,5,6,0,0,0,2,0,0,0,8,0,3,79,45,45,20.3
 394,545536,Sidney Alexssander,Pena de Lima,Sidney Lima,,11,3084,Santa Clara,CDSC,2,DEF,n,Emprestado / On Loan,90,0,0,0,2,0,0,0,0,0,0,0,2,0,0,10,3,48,3.3
 395,495546,Vinícius,Lopes da Silva,Vinícius Lopes,,11,3084,Santa Clara,CDSC,3,MID,a,,680,1,2,5,6,0,0,0,2,0,0,7,0,0,17,29,40,61,3.0
-396,697414,José Luís,Rocha Tavares,José Tavares,,11,3084,Santa Clara,CDSC,3,MID,a,,606,1,1,4,4,0,0,0,1,0,0,2,0,1,8,18,29,45,1.2
+396,697414,José Luís,Rocha Tavares,José Tavares,,11,3084,Santa Clara,CDSC,3,MID,a,,606,1,1,4,4,0,0,0,1,0,0,2,0,1,8,18,29,46,1.2
 397,532614,Matheus,Nunes Fagundes de Araújo,MT,,11,3084,Santa Clara,CDSC,2,DEF,d,Lesão no Joelho / Knee Injuty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0.2
 398,176492,Pedro Miguel,Dinis Ferreira,Pedro Ferreira,,11,3084,Santa Clara,CDSC,3,MID,a,,804,0,0,5,6,0,0,0,2,0,0,3,12,0,8,70,36,46,3.0
 399,625770,João Pedro,Augusto Mourão Costa,João Costa,,11,3084,Santa Clara,CDSC,4,FWD,n,Emprestado / On Loan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0.1
@@ -416,7 +416,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 472,470551,Lukás,Hornícek,Hornícek,,12,372,SC Braga,SCB,1,GK,u,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,1.7
 473,560540,João Gonçalo,Carapinha Carvalho,João Carvalho,,12,372,SC Braga,SCB,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.2
 474,200602,Tiago,Magalhães de Sá,Tiago Sá,,12,372,SC Braga,SCB,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.2
-475,437481,Víctor,Gómez,Victor Gómez,,12,372,SC Braga,SCB,2,DEF,a,,720,0,1,3,10,0,0,0,1,0,0,2,0,0,6,34,29,60,14.9
+475,437481,Víctor,Gómez,Victor Gómez,,12,372,SC Braga,SCB,2,DEF,a,,720,0,1,3,10,0,0,0,1,0,0,2,0,0,6,34,29,60,14.8
 476,229959,Sikou,Niakaté,Niakaté,,12,372,SC Braga,SCB,2,DEF,i,Ruptura do Tendão de Aquiles / Achilles Tendon Rupture,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0.4
 477,450537,Bright,Arrey-Mbi,Arrey-Mbi,,12,372,SC Braga,SCB,2,DEF,a,,161,0,0,0,2,0,0,0,0,0,0,1,0,0,2,13,5,49,0.9
 478,634325,Jónatas Xavier,Zamith Oliveira Noro,Jónatas Noro,,12,372,SC Braga,SCB,2,DEF,u,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.0
@@ -458,7 +458,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 511,550239,Francisco Diogo,Pereira da Silva,Francisco Silva,,13,255,Sporting CP,SCP,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
 512,551193,Diego,Callai Silva,Diego Callai,,13,255,Sporting CP,SCP,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.0
 513,532091,Zeno,Debast,Debast,,13,255,Sporting CP,SCP,2,DEF,d,Lesão Desconhecida / Unknown Injury,397,0,0,3,3,0,0,0,0,1,0,0,0,0,2,23,17,55,1.7
-514,564899,Iván,Fresneda,Fresneda,,13,255,Sporting CP,SCP,2,DEF,a,,733,0,4,3,8,0,0,0,1,0,0,4,0,0,10,52,44,60,3.9
+514,564899,Iván,Fresneda,Fresneda,,13,255,Sporting CP,SCP,2,DEF,a,,733,0,4,3,8,0,0,0,1,0,0,4,0,0,10,52,44,60,4.0
 515,568420,Ousmane,Diomande,Diomande,,13,255,Sporting CP,SCP,2,DEF,u,Transferido Definitivamente / Permanent Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,1.1
 516,672064,Lucas,Taibo,Taibo,,13,255,Sporting CP,SCP,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.0
 517,626423,Bruno,Cardoso Ramos de Carvalho,Bruno Ramos,,13,255,Sporting CP,SCP,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
@@ -483,11 +483,11 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 538,492198,Georgios,Vagiannidis,Vagiannidis,,13,255,Sporting CP,SCP,2,DEF,a,,233,0,0,0,4,0,0,0,0,0,0,0,0,0,1,15,6,52,0.4
 539,437955,Fotis,Ioannidis,Ioannidis,,13,255,Sporting CP,SCP,4,FWD,a,,306,2,3,1,6,0,0,0,0,0,0,2,0,0,6,6,31,93,4.4
 540,657917,Salvador,Blopa,Salvador Blopa,,13,255,Sporting CP,SCP,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0.6
-541,657910,Flávio,Ferreira Gonçalves,Flávio Gonçalves,,13,255,Sporting CP,SCP,3,MID,a,,505,3,1,5,2,0,0,0,1,0,0,2,0,1,8,18,41,67,19.2
+541,657910,Flávio,Ferreira Gonçalves,Flávio Gonçalves,,13,255,Sporting CP,SCP,3,MID,a,,505,3,1,5,2,0,0,0,1,0,0,2,0,1,8,18,41,66,19.0
 542,577114,Luis Guilherme,Lira dos Santos,Luis Guilherme,,13,255,Sporting CP,SCP,3,MID,a,,287,0,0,2,4,0,0,0,0,0,0,5,0,0,11,8,17,79,0.2
 543,482432,Souleymane,Faye,S. Faye,,13,255,Sporting CP,SCP,3,MID,n,Emprestado / On Loan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0.6
-544,473218,Rodrigo,Zalazar,Zalazar,,13,255,Sporting CP,SCP,3,MID,d,Lesão Muscular / Muscle Injury,529,2,2,4,5,0,0,0,0,0,0,4,0,0,11,12,39,103,22.9
-545,515282,Pedro Lima,Barros,Pedro Lima,,13,255,Sporting CP,SCP,3,MID,a,,81,1,0,1,2,0,0,0,0,0,0,1,0,1,3,2,13,58,0.6
+544,473218,Rodrigo,Zalazar,Zalazar,,13,255,Sporting CP,SCP,3,MID,d,Lesão Muscular / Muscle Injury,529,2,2,4,5,0,0,0,0,0,0,4,0,0,11,12,39,103,22.7
+545,515282,Pedro Lima,Barros,Pedro Lima,,13,255,Sporting CP,SCP,3,MID,a,,81,1,0,1,2,0,0,0,0,0,0,1,0,1,3,2,13,58,0.7
 546,561554,Sergi,Altimira,Altimira,,13,255,Sporting CP,SCP,3,MID,a,,890,1,0,3,11,0,0,0,2,0,0,0,16,1,2,69,43,62,12.6
 547,490896,Silas,Andersen,Silas Andersen,,13,255,Sporting CP,SCP,3,MID,a,,219,0,0,1,6,0,0,0,1,0,0,0,0,0,2,12,9,51,0.4
 548,660495,Issa,Doumbia,Doumbia,,13,255,Sporting CP,SCP,3,MID,a,,782,0,1,3,8,0,0,0,1,0,0,2,0,0,9,34,26,72,14.6
@@ -541,47 +541,47 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 689,449066,Toni,Borevkovic,Borevkovic,,14,371,Vitória SC,VSC,2,DEF,a,,276,1,0,1,4,0,0,0,3,0,0,0,0,0,0,16,13,45,0.1
 690,225292,Alan,de Souza Guimarães,Alanzinho,Alan,14,371,Vitória SC,VSC,3,MID,a,,98,0,2,0,2,0,0,0,0,0,0,0,0,0,3,2,10,54,0.2
 699,619521,Mohammed,Kebdani,Kebdani,,14,371,Vitória SC,VSC,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.0
-242,216050,Diogo,Meireles da Costa,Diogo Costa,,15,201,FC Porto,FCP,1,GK,a,,810,0,0,5,4,0,0,0,0,0,19,0,0,0,1,6,44,67,63.9
+242,216050,Diogo,Meireles da Costa,Diogo Costa,,15,201,FC Porto,FCP,1,GK,a,,900,0,0,6,4,0,0,0,0,0,19,0,0,0,1,6,50,67,63.9
 243,79404,Cláudio Pires,Morais Ramos,Cláudio Ramos,,15,201,FC Porto,FCP,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0.6
-244,486212,Zaidu,Sanusi,Zaidu,,15,201,FC Porto,FCP,2,DEF,a,,377,0,0,4,0,0,0,0,0,0,0,0,0,0,1,11,25,53,2.7
-245,441052,Nehuén,Pérez,Nehuen Pérez,,15,201,FC Porto,FCP,2,DEF,a,,133,1,0,1,0,0,0,0,0,0,0,0,0,1,1,10,17,54,1.1
+244,486212,Zaidu,Sanusi,Zaidu,,15,201,FC Porto,FCP,2,DEF,a,,422,0,0,4,0,0,0,0,0,0,0,0,0,0,2,13,26,53,2.7
+245,441052,Nehuén,Pérez,Nehuen Pérez,,15,201,FC Porto,FCP,2,DEF,a,,134,1,0,1,0,0,0,0,0,0,0,0,0,1,1,10,18,54,1.1
 246,428400,Francisco,Sampaio de Moura,Moura,,15,201,FC Porto,FCP,2,DEF,a,,264,0,1,0,3,0,0,0,1,0,0,0,0,0,1,20,10,58,1.0
 247,551367,Martim,Moreira Moutinho Fernandes,Martim,,15,201,FC Porto,FCP,2,DEF,a,,249,0,0,2,1,0,0,0,0,0,0,0,0,0,0,11,16,58,1.5
-248,424821,Eduardo Gabriel,Aquino Cossa,Pepê,,15,201,FC Porto,FCP,3,MID,a,,759,0,4,4,4,0,0,0,1,0,0,5,0,0,15,17,37,79,3.0
-249,577109,William,Gomes Carvalho Santos,William Gomes,,15,201,FC Porto,FCP,3,MID,d,Entorse de Grau 2 / Grade 2 Sprain,513,2,2,2,4,0,0,0,0,0,0,4,0,1,10,18,38,84,3.2
+248,424821,Eduardo Gabriel,Aquino Cossa,Pepê,,15,201,FC Porto,FCP,3,MID,a,,836,0,5,5,4,0,0,0,1,0,0,6,0,0,17,17,44,79,3.0
+249,577109,William,Gomes Carvalho Santos,William Gomes,,15,201,FC Porto,FCP,3,MID,d,Entorse de Grau 2 / Grade 2 Sprain,513,2,2,2,4,0,0,0,0,0,0,4,0,1,10,18,38,84,3.1
 250,436806,Stephen,Eustáquio,Eustáquio,,15,201,FC Porto,FCP,3,MID,u,Transferido Definitivamente / Permanent Transfer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,55,0.1
-251,514587,Alan,Varela,Varela,,15,201,FC Porto,FCP,3,MID,a,,148,0,0,0,1,0,0,0,1,0,0,0,0,0,0,12,4,58,0.6
+251,514587,Alan,Varela,Varela,,15,201,FC Porto,FCP,3,MID,a,,164,0,0,0,1,0,0,0,1,0,0,0,0,0,0,12,5,58,0.6
 252,550253,André Luís,Rocha Oliveira,André Oliveira,,15,201,FC Porto,FCP,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0.0
 253,569701,João Pedro,Moreira Teixeira,João Teixeira,,15,201,FC Porto,FCP,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.0
 254,593207,Rodrigo,Mora de Carvalho,R. Mora,,15,201,FC Porto,FCP,3,MID,u,Transferido Definitivamente / Permanent Transfer,15,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,80,0.2
-255,624878,Samu,Aghehowa,Samu,,15,201,FC Porto,FCP,4,FWD,a,,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,114,0.4
+255,624878,Samu,Aghehowa,Samu,,15,201,FC Porto,FCP,4,FWD,a,,126,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,5,114,0.4
 256,596063,Deniz,Gül,Gül,,15,201,FC Porto,FCP,4,FWD,u,Transferido Definitivamente / Permanent Transfer,91,0,0,1,0,0,0,0,0,0,0,1,0,0,3,2,5,85,1.1
 257,230567,João Paulo,Santos da Costa,João Costa,,15,201,FC Porto,FCP,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.1
 258,561807,Diogo,Dias Fernandes,Diogo Fernandes,,15,201,FC Porto,FCP,1,GK,n,Emprestado / On Loan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.0
-259,586843,Alberto,Oliveira Baio,Alberto Costa,,15,201,FC Porto,FCP,2,DEF,a,,630,0,0,3,4,0,0,0,0,0,0,5,0,0,14,31,33,65,5.0
+259,586843,Alberto,Oliveira Baio,Alberto Costa,,15,201,FC Porto,FCP,2,DEF,a,,720,0,0,4,4,0,0,0,0,0,0,6,0,0,17,38,40,65,5.0
 260,568504,Dominik,Prpić,Prpić,,15,201,FC Porto,FCP,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0.1
 261,503593,Gabriel,Costa Brás,Gabriel Brás,,15,201,FC Porto,FCP,2,DEF,u,Emprestado / On Loan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.0
-262,590186,Victor,Mow Froholdt,Froholdt,,15,201,FC Porto,FCP,3,MID,a,,719,2,1,5,3,0,0,0,0,0,0,3,2,1,8,24,42,85,26.1
-263,490799,Borja,Sainz Eguskiza,Borja Sainz,,15,201,FC Porto,FCP,3,MID,a,,270,4,0,1,0,0,0,0,0,0,0,1,0,1,6,6,36,80,0.6
-264,514189,Gabriel,Veiga Novas,Gabri Veiga,,15,201,FC Porto,FCP,3,MID,a,,568,4,3,4,2,0,0,0,1,0,0,4,0,1,16,20,54,86,31.4
-265,171771,Jan,Kacper Bednarek,Bednarek,,15,201,FC Porto,FCP,2,DEF,a,,762,1,0,4,4,0,0,0,0,0,0,0,12,0,2,89,51,69,29.2
+262,590186,Victor,Mow Froholdt,Froholdt,,15,201,FC Porto,FCP,3,MID,a,,809,3,1,6,3,0,0,0,0,0,0,3,2,2,9,27,51,85,26.2
+263,490799,Borja,Sainz Eguskiza,Borja Sainz,,15,201,FC Porto,FCP,3,MID,a,,360,5,1,2,0,0,0,0,0,0,0,1,0,1,7,8,47,80,0.6
+264,514189,Gabriel,Veiga Novas,Gabri Veiga,,15,201,FC Porto,FCP,3,MID,a,,641,5,5,5,2,0,0,0,1,0,0,5,0,1,18,25,70,86,31.5
+265,171771,Jan,Kacper Bednarek,Bednarek,,15,201,FC Porto,FCP,2,DEF,a,,835,1,0,5,4,0,0,0,1,0,0,0,12,0,3,97,56,69,29.2
 266,576659,Martim,Araújo Cunha,Martim Cunha,,15,201,FC Porto,FCP,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0.0
-268,214860,Pablo,Rosario,Rosario,,15,201,FC Porto,FCP,3,MID,a,,688,0,2,4,3,0,0,0,1,0,0,1,0,0,4,44,26,60,0.9
-269,440854,Jakub,Kiwior,Kiwior,,15,201,FC Porto,FCP,2,DEF,a,,810,1,1,5,4,0,0,0,1,0,0,2,2,1,6,62,51,63,62.2
+268,214860,Pablo,Rosario,Rosario,,15,201,FC Porto,FCP,3,MID,a,,778,0,2,5,3,0,0,0,1,0,0,2,0,0,6,48,30,60,0.9
+269,440854,Jakub,Kiwior,Kiwior,,15,201,FC Porto,FCP,2,DEF,a,,900,1,1,6,4,0,0,0,1,0,0,3,2,1,8,64,58,63,62.2
 270,576669,André Alexandre,Mendes Miranda,André Miranda,,15,201,FC Porto,FCP,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.0
 271,638946,Oskar,Pietuszewski,Oskar Pietuszewski,,15,201,FC Porto,FCP,3,MID,a,,16,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,7,93,1.0
 272,576662,Tiago,Silva,Tiago Silva,,15,201,FC Porto,FCP,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.0
 273,668300,João,de Oliveira Afonso,João Afonso,,15,201,FC Porto,FCP,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0.1
 274,483073,Vasco José,Cardoso Sousa,Vasco Sousa,,15,201,FC Porto,FCP,3,MID,i,Fratura no Perónio / Fibula Fracture,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0.0
-275,165811,André Miguel,Valente da Silva,André Silva,,15,201,FC Porto,FCP,4,FWD,a,,605,3,3,3,4,0,0,0,0,0,0,2,0,2,8,9,42,99,5.3
+275,165811,André Miguel,Valente da Silva,André Silva,,15,201,FC Porto,FCP,4,FWD,a,,628,4,3,3,4,0,0,0,0,0,0,2,0,2,8,10,47,99,5.3
 276,690614,Bernardo,Pinto Lima,Bernardo Lima,,15,201,FC Porto,FCP,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0.0
 277,455605,Hwang,Inbeom,Inbeom,,15,201,FC Porto,FCP,3,MID,a,,313,1,1,0,3,0,0,0,2,0,0,4,0,0,10,14,19,69,1.1
 619,648047,Duarte,Lopes da Cunha,Duarte Cunha,Duarte Cunha,15,201,FC Porto,FCP,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.0
 620,715376,Eduardo,Monção Meireles Liberato Ferreira,Eduardo Ferreira,Eduardo Ferreira,15,201,FC Porto,FCP,4,FWD,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.0
-641,154344,Seko,Fofana,Fofana,Seko Fofana,15,201,FC Porto,FCP,3,MID,a,,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,75,0.0
+641,154344,Seko,Fofana,Fofana,Seko Fofana,15,201,FC Porto,FCP,3,MID,a,,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,75,0.0
 660,432234,Santiago,Giménez,Giménez,,15,201,FC Porto,FCP,4,FWD,a,,61,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,97,0.3
-661,685440,Gabriel,Ferreira de Carvalho,Gabriel Mec,Gabriel Mec,15,201,FC Porto,FCP,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0.0
-662,616221,João Victor,de Souza Menezes,Souza,Souza,15,201,FC Porto,FCP,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0.0
+661,685440,Gabriel,Ferreira de Carvalho,Gabriel Mec,Gabriel Mec,15,201,FC Porto,FCP,3,MID,a,,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,79,0.0
+662,616221,João Victor,de Souza Menezes,Souza,Souza,15,201,FC Porto,FCP,2,DEF,a,,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,52,0.0
 691,551365,Luís,Domingos Vieira Barata Gomes,Luís Gomes,Luís Gomes,15,201,FC Porto,FCP,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.0
 697,55909,Chris,Smalling,Smalling,,15,201,FC Porto,FCP,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,0.0
 149,516053,André Filipe,Eusébio Paulo,André Paulo,,16,3531,FC Alverca,ALV,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.6
@@ -599,7 +599,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 161,701879,Abderrahmane,Soumare,Soumare,,16,3531,FC Alverca,ALV,3,MID,n,Emprestado / On Loan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.0
 162,224297,Stéphane Imad,Diarra,Stéphane Diarra,,16,3531,FC Alverca,ALV,3,MID,n,Emprestado / On Loan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.1
 163,686526,Rodrigo,Abreu Pereira,Rodrigo Pereira,,16,3531,FC Alverca,ALV,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
-164,649919,Ikker,Julian,Ikker Julian,,16,3531,FC Alverca,ALV,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.2
+164,649919,Ikker,Julian,Ikker Julian,,16,3531,FC Alverca,ALV,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.1
 165,476459,Sabit,Abdulai,Sabit Abdulai,,16,3531,FC Alverca,ALV,3,MID,i,Lesão Desconhecida / Unknown Injury,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.0
 166,248504,Nabil,Touaizi,Nabil Touaizi,,16,3531,FC Alverca,ALV,3,MID,a,,305,0,0,0,7,0,0,0,1,0,0,0,0,0,2,16,7,52,0.2
 167,86151,Sergi,Gómez,Sergi Gómez,,16,3531,FC Alverca,ALV,2,DEF,a,,457,0,0,1,6,0,0,0,0,0,0,0,2,0,1,42,16,44,0.4
@@ -689,9 +689,9 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 22,677002,Simão,Silva,Simão Silva,,18,3530,Académico,AVFC,3,MID,n,Emprestado / On Loan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.0
 23,588898,Tomás,Tavares Silva,Tavares Silva,,18,3530,Académico,AVFC,3,MID,n,Emprestado / On Loan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.0
 24,596399,Álvaro José,Zamora Mata,Zamora,,18,3530,Académico,AVFC,3,MID,a,,257,0,0,0,5,0,0,0,1,0,0,0,0,0,1,5,8,53,0.1
-25,656753,João Guilherme,de Souza Crispim,João Guilherme,,18,3530,Académico,AVFC,3,MID,a,,776,3,0,2,11,0,0,0,0,0,0,0,2,2,4,31,40,51,2.1
+25,656753,João Guilherme,de Souza Crispim,João Guilherme,,18,3530,Académico,AVFC,3,MID,a,,776,3,0,2,11,0,0,0,0,0,0,0,2,2,4,31,40,51,2.2
 26,631703,Alejandro García,Mestanza,Mestanza,,18,3530,Académico,AVFC,3,MID,a,,303,0,1,0,5,0,0,0,3,0,0,0,2,0,6,18,13,49,0.1
-27,479272,Ewerton,Ferreira da Silva,Ewerton,,18,3530,Académico,AVFC,1,GK,a,,810,0,0,2,11,0,0,0,0,0,38,0,0,0,0,20,40,41,14.7
+27,479272,Ewerton,Ferreira da Silva,Ewerton,,18,3530,Académico,AVFC,1,GK,a,,810,0,0,2,11,0,0,0,0,0,38,0,0,0,0,20,40,41,14.8
 591,581841,Andro,Babic,Babic,,18,3530,Académico,AVFC,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.2
 603,510444,Mohamed,Bouldini,Bouldini,,18,3530,Académico,AVFC,4,FWD,a,,35,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,9,50,0.1
 634,543187,Paulo Rafael,Pereira Araújo,Paulinho,Paulinho,18,3530,Académico,AVFC,4,FWD,a,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,55,0.0
