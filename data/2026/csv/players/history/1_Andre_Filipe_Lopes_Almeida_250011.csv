@@ -8,3 +8,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 1,58,7,2026-09-20T14:30:00Z,False,6,Estrela Amadora,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,111,0,10,-10
 1,64,8,2026-10-10T19:30:00Z,True,5,Estoril Praia,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,106,0,5,-5
 1,80,9,2026-10-25T20:30:00Z,False,13,Sporting CP,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,105,0,1,-1
+1,82,10,2026-11-01T18:00:00Z,True,10,Rio Ave FC,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,104,0,1,-1
