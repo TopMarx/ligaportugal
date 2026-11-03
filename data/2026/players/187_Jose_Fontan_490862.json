@@ -702,7 +702,7 @@
       "attacking_bonus": 0,
       "defending_bonus": 0,
       "winning_goals": 0,
-      "key_passes": 0,
+      "key_passes": 1,
       "clearances_blocks_interceptions": 7,
       "recoveries": 6,
       "shots_on_target": 0,
