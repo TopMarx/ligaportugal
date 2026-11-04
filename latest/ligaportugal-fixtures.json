@@ -15576,7 +15576,7 @@
   {
     "code": 2654517,
     "event": 10,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 85,
     "kickoff_time": "2026-10-30T20:15:00Z",
@@ -15786,7 +15786,7 @@
   {
     "code": 2654520,
     "event": 10,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 89,
     "kickoff_time": "2026-10-31T15:30:00Z",
@@ -15964,7 +15964,7 @@
   {
     "code": 2654521,
     "event": 10,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 86,
     "kickoff_time": "2026-10-31T20:30:00Z",
@@ -16166,7 +16166,7 @@
   {
     "code": 2654515,
     "event": 10,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 83,
     "kickoff_time": "2026-11-01T15:30:00Z",
@@ -16181,12 +16181,7 @@
       {
         "identifier": "goals_scored",
         "a": [],
-        "h": [
-          {
-            "value": 1,
-            "element": 190
-          }
-        ]
+        "h": []
       },
       {
         "identifier": "assists",
@@ -16194,7 +16189,7 @@
         "h": [
           {
             "value": 1,
-            "element": 200
+            "element": 190
           }
         ]
       },
@@ -16253,7 +16248,12 @@
       },
       {
         "identifier": "own_goals",
-        "a": [],
+        "a": [
+          {
+            "value": 1,
+            "element": 66
+          }
+        ],
         "h": []
       },
       {
@@ -16289,12 +16289,7 @@
       {
         "identifier": "winning_goals",
         "a": [],
-        "h": [
-          {
-            "value": 1,
-            "element": 190
-          }
-        ]
+        "h": []
       },
       {
         "identifier": "shots_on_target",
@@ -16311,10 +16306,6 @@
           },
           {
             "value": 1,
-            "element": 190
-          },
-          {
-            "value": 1,
             "element": 199
           },
           {
@@ -16328,7 +16319,7 @@
   {
     "code": 2654514,
     "event": 10,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 82,
     "kickoff_time": "2026-11-01T18:00:00Z",
@@ -16533,7 +16524,7 @@
   {
     "code": 2654519,
     "event": 10,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 88,
     "kickoff_time": "2026-11-01T18:00:00Z",
@@ -16675,6 +16666,10 @@
         "a": [
           {
             "value": 2,
+            "element": 411
+          },
+          {
+            "value": 2,
             "element": 416
           }
         ],
@@ -16730,7 +16725,7 @@
   {
     "code": 2654516,
     "event": 10,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 90,
     "kickoff_time": "2026-11-01T20:30:00Z",
@@ -16927,7 +16922,7 @@
   {
     "code": 2654518,
     "event": 10,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 87,
     "kickoff_time": "2026-11-02T20:15:00Z",
@@ -17066,7 +17061,7 @@
   {
     "code": 2654522,
     "event": 10,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 84,
     "kickoff_time": "2026-11-02T20:15:00Z",
@@ -17546,18 +17541,98 @@
     "stats": []
   },
   {
+    "code": 2654549,
+    "event": 13,
+    "finished": false,
+    "finished_provisional": false,
+    "id": 117,
+    "kickoff_time": "2026-12-04T20:15:00Z",
+    "minutes": 0,
+    "provisional_start_time": false,
+    "started": false,
+    "team_a": 17,
+    "team_a_score": null,
+    "team_h": 13,
+    "team_h_score": null,
+    "stats": []
+  },
+  {
     "code": 2654546,
     "event": 13,
     "finished": false,
     "finished_provisional": false,
     "id": 110,
-    "kickoff_time": "2026-12-06T18:00:00Z",
+    "kickoff_time": "2026-12-05T15:30:00Z",
     "minutes": 0,
-    "provisional_start_time": true,
+    "provisional_start_time": false,
     "started": false,
     "team_a": 2,
     "team_a_score": null,
     "team_h": 4,
+    "team_h_score": null,
+    "stats": []
+  },
+  {
+    "code": 2654548,
+    "event": 13,
+    "finished": false,
+    "finished_provisional": false,
+    "id": 115,
+    "kickoff_time": "2026-12-05T18:00:00Z",
+    "minutes": 0,
+    "provisional_start_time": false,
+    "started": false,
+    "team_a": 15,
+    "team_a_score": null,
+    "team_h": 11,
+    "team_h_score": null,
+    "stats": []
+  },
+  {
+    "code": 2654543,
+    "event": 13,
+    "finished": false,
+    "finished_provisional": false,
+    "id": 116,
+    "kickoff_time": "2026-12-05T20:30:00Z",
+    "minutes": 0,
+    "provisional_start_time": false,
+    "started": false,
+    "team_a": 1,
+    "team_a_score": null,
+    "team_h": 12,
+    "team_h_score": null,
+    "stats": []
+  },
+  {
+    "code": 2654542,
+    "event": 13,
+    "finished": false,
+    "finished_provisional": false,
+    "id": 112,
+    "kickoff_time": "2026-12-06T15:30:00Z",
+    "minutes": 0,
+    "provisional_start_time": false,
+    "started": false,
+    "team_a": 8,
+    "team_a_score": null,
+    "team_h": 6,
+    "team_h_score": null,
+    "stats": []
+  },
+  {
+    "code": 2654547,
+    "event": 13,
+    "finished": false,
+    "finished_provisional": false,
+    "id": 114,
+    "kickoff_time": "2026-12-06T15:30:00Z",
+    "minutes": 0,
+    "provisional_start_time": false,
+    "started": false,
+    "team_a": 3,
+    "team_a_score": null,
+    "team_h": 10,
     "team_h_score": null,
     "stats": []
   },
@@ -17578,18 +17653,18 @@
     "stats": []
   },
   {
-    "code": 2654542,
+    "code": 2654545,
     "event": 13,
     "finished": false,
     "finished_provisional": false,
-    "id": 112,
-    "kickoff_time": "2026-12-06T18:00:00Z",
+    "id": 113,
+    "kickoff_time": "2026-12-06T20:30:00Z",
     "minutes": 0,
-    "provisional_start_time": true,
+    "provisional_start_time": false,
     "started": false,
-    "team_a": 8,
+    "team_a": 18,
     "team_a_score": null,
-    "team_h": 6,
+    "team_h": 7,
     "team_h_score": null,
     "stats": []
   },
@@ -17599,93 +17674,13 @@
     "finished": false,
     "finished_provisional": false,
     "id": 109,
-    "kickoff_time": "2026-12-06T18:00:00Z",
+    "kickoff_time": "2026-12-07T20:15:00Z",
     "minutes": 0,
-    "provisional_start_time": true,
+    "provisional_start_time": false,
     "started": false,
     "team_a": 9,
     "team_a_score": null,
     "team_h": 16,
-    "team_h_score": null,
-    "stats": []
-  },
-  {
-    "code": 2654545,
-    "event": 13,
-    "finished": false,
-    "finished_provisional": false,
-    "id": 113,
-    "kickoff_time": "2026-12-06T18:00:00Z",
-    "minutes": 0,
-    "provisional_start_time": true,
-    "started": false,
-    "team_a": 18,
-    "team_a_score": null,
-    "team_h": 7,
-    "team_h_score": null,
-    "stats": []
-  },
-  {
-    "code": 2654547,
-    "event": 13,
-    "finished": false,
-    "finished_provisional": false,
-    "id": 114,
-    "kickoff_time": "2026-12-06T18:00:00Z",
-    "minutes": 0,
-    "provisional_start_time": true,
-    "started": false,
-    "team_a": 3,
-    "team_a_score": null,
-    "team_h": 10,
-    "team_h_score": null,
-    "stats": []
-  },
-  {
-    "code": 2654548,
-    "event": 13,
-    "finished": false,
-    "finished_provisional": false,
-    "id": 115,
-    "kickoff_time": "2026-12-06T18:00:00Z",
-    "minutes": 0,
-    "provisional_start_time": true,
-    "started": false,
-    "team_a": 15,
-    "team_a_score": null,
-    "team_h": 11,
-    "team_h_score": null,
-    "stats": []
-  },
-  {
-    "code": 2654543,
-    "event": 13,
-    "finished": false,
-    "finished_provisional": false,
-    "id": 116,
-    "kickoff_time": "2026-12-06T18:00:00Z",
-    "minutes": 0,
-    "provisional_start_time": true,
-    "started": false,
-    "team_a": 1,
-    "team_a_score": null,
-    "team_h": 12,
-    "team_h_score": null,
-    "stats": []
-  },
-  {
-    "code": 2654549,
-    "event": 13,
-    "finished": false,
-    "finished_provisional": false,
-    "id": 117,
-    "kickoff_time": "2026-12-06T18:00:00Z",
-    "minutes": 0,
-    "provisional_start_time": true,
-    "started": false,
-    "team_a": 17,
-    "team_a_score": null,
-    "team_h": 13,
     "team_h_score": null,
     "stats": []
   },
@@ -17695,29 +17690,13 @@
     "finished": false,
     "finished_provisional": false,
     "id": 118,
-    "kickoff_time": "2026-12-13T18:00:00Z",
+    "kickoff_time": "2026-12-11T20:15:00Z",
     "minutes": 0,
-    "provisional_start_time": true,
+    "provisional_start_time": false,
     "started": false,
     "team_a": 1,
     "team_a_score": null,
     "team_h": 18,
-    "team_h_score": null,
-    "stats": []
-  },
-  {
-    "code": 2654551,
-    "event": 14,
-    "finished": false,
-    "finished_provisional": false,
-    "id": 120,
-    "kickoff_time": "2026-12-13T18:00:00Z",
-    "minutes": 0,
-    "provisional_start_time": true,
-    "started": false,
-    "team_a": 4,
-    "team_a_score": null,
-    "team_h": 3,
     "team_h_score": null,
     "stats": []
   },
@@ -17727,45 +17706,13 @@
     "finished": false,
     "finished_provisional": false,
     "id": 121,
-    "kickoff_time": "2026-12-13T18:00:00Z",
+    "kickoff_time": "2026-12-12T15:30:00Z",
     "minutes": 0,
-    "provisional_start_time": true,
+    "provisional_start_time": false,
     "started": false,
     "team_a": 11,
     "team_a_score": null,
     "team_h": 5,
-    "team_h_score": null,
-    "stats": []
-  },
-  {
-    "code": 2654556,
-    "event": 14,
-    "finished": false,
-    "finished_provisional": false,
-    "id": 122,
-    "kickoff_time": "2026-12-13T18:00:00Z",
-    "minutes": 0,
-    "provisional_start_time": true,
-    "started": false,
-    "team_a": 6,
-    "team_a_score": null,
-    "team_h": 15,
-    "team_h_score": null,
-    "stats": []
-  },
-  {
-    "code": 2654553,
-    "event": 14,
-    "finished": false,
-    "finished_provisional": false,
-    "id": 123,
-    "kickoff_time": "2026-12-13T18:00:00Z",
-    "minutes": 0,
-    "provisional_start_time": true,
-    "started": false,
-    "team_a": 13,
-    "team_a_score": null,
-    "team_h": 8,
     "team_h_score": null,
     "stats": []
   },
@@ -17775,13 +17722,45 @@
     "finished": false,
     "finished_provisional": false,
     "id": 124,
-    "kickoff_time": "2026-12-13T18:00:00Z",
+    "kickoff_time": "2026-12-12T18:00:00Z",
     "minutes": 0,
-    "provisional_start_time": true,
+    "provisional_start_time": false,
     "started": false,
     "team_a": 10,
     "team_a_score": null,
     "team_h": 17,
+    "team_h_score": null,
+    "stats": []
+  },
+  {
+    "code": 2654553,
+    "event": 14,
+    "finished": false,
+    "finished_provisional": false,
+    "id": 123,
+    "kickoff_time": "2026-12-12T20:30:00Z",
+    "minutes": 0,
+    "provisional_start_time": false,
+    "started": false,
+    "team_a": 13,
+    "team_a_score": null,
+    "team_h": 8,
+    "team_h_score": null,
+    "stats": []
+  },
+  {
+    "code": 2654551,
+    "event": 14,
+    "finished": false,
+    "finished_provisional": false,
+    "id": 120,
+    "kickoff_time": "2026-12-13T15:30:00Z",
+    "minutes": 0,
+    "provisional_start_time": false,
+    "started": false,
+    "team_a": 4,
+    "team_a_score": null,
+    "team_h": 3,
     "team_h_score": null,
     "stats": []
   },
@@ -17791,29 +17770,13 @@
     "finished": false,
     "finished_provisional": false,
     "id": 125,
-    "kickoff_time": "2026-12-13T18:00:00Z",
+    "kickoff_time": "2026-12-13T15:30:00Z",
     "minutes": 0,
-    "provisional_start_time": true,
+    "provisional_start_time": false,
     "started": false,
     "team_a": 7,
     "team_a_score": null,
     "team_h": 9,
-    "team_h_score": null,
-    "stats": []
-  },
-  {
-    "code": 2654557,
-    "event": 14,
-    "finished": false,
-    "finished_provisional": false,
-    "id": 119,
-    "kickoff_time": "2026-12-13T18:00:00Z",
-    "minutes": 0,
-    "provisional_start_time": true,
-    "started": false,
-    "team_a": 12,
-    "team_a_score": null,
-    "team_h": 2,
     "team_h_score": null,
     "stats": []
   },
@@ -17830,6 +17793,38 @@
     "team_a": 16,
     "team_a_score": null,
     "team_h": 14,
+    "team_h_score": null,
+    "stats": []
+  },
+  {
+    "code": 2654556,
+    "event": 14,
+    "finished": false,
+    "finished_provisional": false,
+    "id": 122,
+    "kickoff_time": "2026-12-13T20:30:00Z",
+    "minutes": 0,
+    "provisional_start_time": false,
+    "started": false,
+    "team_a": 6,
+    "team_a_score": null,
+    "team_h": 15,
+    "team_h_score": null,
+    "stats": []
+  },
+  {
+    "code": 2654557,
+    "event": 14,
+    "finished": false,
+    "finished_provisional": false,
+    "id": 119,
+    "kickoff_time": "2026-12-14T20:15:00Z",
+    "minutes": 0,
+    "provisional_start_time": false,
+    "started": false,
+    "team_a": 12,
+    "team_a_score": null,
+    "team_h": 2,
     "team_h_score": null,
     "stats": []
   },

@@ -2,7 +2,7 @@
   "team_opta_id": 372,
   "team_name": "SC Braga",
   "season": 2026,
-  "generated_at": "2026-11-03T02:51:34.910734+00:00",
+  "generated_at": "2026-11-04T16:52:48.683753+00:00",
   "players": [
     {
       "player_id": 477,
@@ -6491,8 +6491,8 @@
           "defending_bonus": 0,
           "winning_goals": 0,
           "key_passes": 2,
-          "clearances_blocks_interceptions": 1,
-          "recoveries": 2,
+          "clearances_blocks_interceptions": 2,
+          "recoveries": 1,
           "shots_on_target": 1,
           "value": 60,
           "transfers_balance": -250,
@@ -14690,7 +14690,7 @@
           "winning_goals": 1,
           "key_passes": 2,
           "clearances_blocks_interceptions": 1,
-          "recoveries": 4,
+          "recoveries": 5,
           "shots_on_target": 1,
           "value": 99,
           "transfers_balance": -47,

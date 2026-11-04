@@ -15576,7 +15576,7 @@
   {
     "code": 2654517,
     "event": 10,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 85,
     "kickoff_time": "2026-10-30T20:15:00Z",
@@ -15786,7 +15786,7 @@
   {
     "code": 2654520,
     "event": 10,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 89,
     "kickoff_time": "2026-10-31T15:30:00Z",
@@ -15964,7 +15964,7 @@
   {
     "code": 2654521,
     "event": 10,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 86,
     "kickoff_time": "2026-10-31T20:30:00Z",
@@ -16166,7 +16166,7 @@
   {
     "code": 2654515,
     "event": 10,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 83,
     "kickoff_time": "2026-11-01T15:30:00Z",
@@ -16181,12 +16181,7 @@
       {
         "identifier": "goals_scored",
         "a": [],
-        "h": [
-          {
-            "value": 1,
-            "element": 190
-          }
-        ]
+        "h": []
       },
       {
         "identifier": "assists",
@@ -16194,7 +16189,7 @@
         "h": [
           {
             "value": 1,
-            "element": 200
+            "element": 190
           }
         ]
       },
@@ -16253,7 +16248,12 @@
       },
       {
         "identifier": "own_goals",
-        "a": [],
+        "a": [
+          {
+            "value": 1,
+            "element": 66
+          }
+        ],
         "h": []
       },
       {
@@ -16289,12 +16289,7 @@
       {
         "identifier": "winning_goals",
         "a": [],
-        "h": [
-          {
-            "value": 1,
-            "element": 190
-          }
-        ]
+        "h": []
       },
       {
         "identifier": "shots_on_target",
@@ -16311,10 +16306,6 @@
           },
           {
             "value": 1,
-            "element": 190
-          },
-          {
-            "value": 1,
             "element": 199
           },
           {
@@ -16328,7 +16319,7 @@
   {
     "code": 2654514,
     "event": 10,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 82,
     "kickoff_time": "2026-11-01T18:00:00Z",
@@ -16533,7 +16524,7 @@
   {
     "code": 2654519,
     "event": 10,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 88,
     "kickoff_time": "2026-11-01T18:00:00Z",
@@ -16675,6 +16666,10 @@
         "a": [
           {
             "value": 2,
+            "element": 411
+          },
+          {
+            "value": 2,
             "element": 416
           }
         ],
@@ -16730,7 +16725,7 @@
   {
     "code": 2654516,
     "event": 10,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 90,
     "kickoff_time": "2026-11-01T20:30:00Z",
@@ -16927,7 +16922,7 @@
   {
     "code": 2654518,
     "event": 10,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 87,
     "kickoff_time": "2026-11-02T20:15:00Z",
@@ -17066,7 +17061,7 @@
   {
     "code": 2654522,
     "event": 10,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 84,
     "kickoff_time": "2026-11-02T20:15:00Z",
