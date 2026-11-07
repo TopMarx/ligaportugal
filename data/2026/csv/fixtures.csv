@@ -89,7 +89,7 @@ fixture_id,fixture_opta_id,gameweek,team_h_id,team_h_opta_id,team_h_name,team_h_
 90,2654516,10,12,372,SC Braga,SCB,7,6644,FC Famalicão,FCF,3,0,2026-11-01T20:30:00Z,True,True,,
 87,2654518,10,8,666,Gil Vicente FC,GVFC,14,371,Vitória SC,VSC,0,0,2026-11-02T20:15:00Z,True,True,,
 84,2654522,10,2,251,SL Benfica,SLB,16,3531,FC Alverca,ALV,1,0,2026-11-02T20:15:00Z,True,True,,
-95,2654526,11,7,6644,FC Famalicão,FCF,1,5674,FC Arouca,FCA,,,2026-11-06T20:45:00Z,False,False,,
+95,2654526,11,7,6644,FC Famalicão,FCF,1,5674,FC Arouca,FCA,1,0,2026-11-06T20:45:00Z,False,True,,
 92,2654527,11,4,2003,CD Nacional,CDN,18,3530,Académico,AVFC,,,2026-11-07T15:30:00Z,False,False,,
 91,2654523,11,16,3531,FC Alverca,ALV,3,5191,Casa Pia AC,CPAC,,,2026-11-07T18:00:00Z,False,False,,
 98,2654530,11,13,255,Sporting CP,SCP,9,3536,Moreirense FC,MFC,,,2026-11-07T20:30:00Z,False,False,,
