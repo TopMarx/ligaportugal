@@ -9,3 +9,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 330,70,8,2026-10-09T17:45:00Z,True,8,Gil Vicente FC,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,2,0,0,0
 330,75,9,2026-10-25T15:30:00Z,False,5,Estoril Praia,1,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,2,0,0,0
 330,89,10,2026-10-31T15:30:00Z,True,6,Estrela Amadora,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,1,0,1,-1
+330,98,11,2026-11-07T20:30:00Z,False,13,Sporting CP,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,1,0,0,0
