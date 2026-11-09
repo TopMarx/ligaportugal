@@ -8,3 +8,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 635,17,8,2026-10-19T19:15:00Z,True,8,Gil Vicente FC,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,6,0,0,0
 635,74,9,2026-10-25T18:00:00Z,False,4,CD Nacional,1,0,False,45,0,0,0,1,0,0,0,0,0,0,1,0,0,2,3,2,54,6,0,0,0
 635,90,10,2026-11-01T20:30:00Z,True,7,FC Famalicão,3,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,7,1,0,1
+635,96,11,2026-11-08T20:30:00Z,False,10,Rio Ave FC,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,8,1,0,1

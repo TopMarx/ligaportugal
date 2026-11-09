@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 94,
-      "code": 2654524,
-      "team_h": 6,
-      "team_h_score": null,
-      "team_a": 2,
-      "team_a_score": null,
-      "event": 11,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-11-08T20:30:00Z",
-      "event_name": "Jornada 11",
-      "is_home": true
-    },
-    {
       "id": 108,
       "code": 2654540,
       "team_h": 14,
@@ -711,6 +696,41 @@
       "selected": 6779,
       "transfers_in": 374,
       "transfers_out": 295
+    },
+    {
+      "element": 126,
+      "fixture": 94,
+      "opponent_team": 2,
+      "total_points": 4,
+      "was_home": true,
+      "kickoff_time": "2026-11-08T20:30:00Z",
+      "team_h_score": 2,
+      "team_a_score": 3,
+      "round": 11,
+      "modified": false,
+      "minutes": 90,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 3,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "attacking_bonus": 0,
+      "defending_bonus": 2,
+      "winning_goals": 0,
+      "key_passes": 0,
+      "clearances_blocks_interceptions": 3,
+      "recoveries": 9,
+      "shots_on_target": 0,
+      "value": 63,
+      "transfers_balance": -467,
+      "selected": 6380,
+      "transfers_in": 183,
+      "transfers_out": 650
     }
   ],
   "history_past": [
