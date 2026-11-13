@@ -1,21 +1,5 @@
 [
   {
-    "code": 2654525,
-    "event": null,
-    "finished": false,
-    "finished_provisional": false,
-    "id": 93,
-    "kickoff_time": null,
-    "minutes": 0,
-    "provisional_start_time": false,
-    "started": null,
-    "team_a": 17,
-    "team_a_score": null,
-    "team_h": 5,
-    "team_h_score": null,
-    "stats": []
-  },
-  {
     "code": 2654434,
     "event": 1,
     "finished": true,
@@ -19504,6 +19488,22 @@
     "team_a": 10,
     "team_a_score": null,
     "team_h": 14,
+    "team_h_score": null,
+    "stats": []
+  },
+  {
+    "code": 2654525,
+    "event": 16,
+    "finished": false,
+    "finished_provisional": false,
+    "id": 93,
+    "kickoff_time": "2027-01-04T20:15:00Z",
+    "minutes": 0,
+    "provisional_start_time": false,
+    "started": false,
+    "team_a": 17,
+    "team_a_score": null,
+    "team_h": 5,
     "team_h_score": null,
     "stats": []
   },
